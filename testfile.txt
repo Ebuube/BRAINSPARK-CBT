@@ -1,0 +1,3847 @@
+1:	Which of the following is not a feature of language?
+	A. creativity
+	B. connectivity
+	C. discreetness
+	D. arbitrariness
+
+2:	According to the message transfer mode, what is the process through
+	which words or unspokedn signals are interpreted by the receiver?
+	A. Encoding
+	B. Transmitting
+	C. Decoding
+	D. Signaling
+
+3:	What is the two key concepts added by the notion of human-
+	communication as interaction?
+	A. Feedback and noise
+	B. Noise and context
+	C. Channel and context
+	D. Feedback and context
+
+4:	How many "people" are involved when you communicate with another
+	person?
+	A. Two
+	B. Four
+	C. Six
+	D. Eight
+
+5:	Which communication activity do we spend most of our time performing?
+	A. Talking
+	B. Thinking
+	C. Guessing
+	D. Listening
+
+6:	Flexibility in reading involves ___________
+	A. flipping through the pages
+	B. being open minded
+	C. keeping awake
+	D. fast reading
+
+7:	__________ can easily impede understanding.
+	A. Fast reading
+	B. A fixed notion about the topic
+	C. A passage without a topic
+	D. None of A-C.
+
+8:	The meaning-carrying sentence in a paragraph is _________
+	A. the topic sentence
+	B. the topic
+	C. the theme
+	D. repeated sentence
+
+9:	The surface-meaning of a word is that word's
+	A. denotation
+	B. connotation
+	C. sense link
+	D. deep sense
+
+10:	A _________ helps a reader to determine the time and mental attitude 
+	required for tackling a material.
+	A. review
+	B. mid-view
+	C. preview
+	D. sub-view
+
+11:	__________ is a major difference between learning and listening.
+	A. Attention
+	B. Noise
+	C. Caution
+	D. Relaxation
+
+12:	 When taking notes during lectures, which of the following is NOT
+	important?
+	A. The speaker repeated an item.
+	B. The speaker took off his jacket.
+	C. The speaker changed tone of his voice.
+	D. The speaker made a direct reference to the book.
+
+13:	Which one of the following statements is correct?
+	A. Examination precedes revision.
+	B. The processs of teaching and learning ends with revision.
+	C. Revision plays a crucial role in the conduct of examinations.
+	D. Revision is an invaluable activity.
+
+14:	Which one of the statements below is true?
+	A. Examinations are an academic exercise designed to punish lazy students only.
+	B. Examinations are predioc means of evaluation of knowledge and skills learned.
+	C. Examinations are principally the evaluation of pedagogical skills and competence of teachers.
+	D. Examinations are exercises peculiar to educational institutions.
+
+15:	Revision should be ______________
+	A. a continual exercise
+	B. a continuous exercise
+	C. an important exercise reversed for examinations weeks
+	D. a personal academic activity done during private study only
+
+16:	A wrong attitude towards examination will lead to all but one of the following:
+	A. writing examinations without adequate preparation
+	B. smuggling nots and some other materials into the examination hall
+	C. exposing your answers for other students to copy
+	D. upholding the ethics and regulations guiding the conduct of examinations
+
+17:	The fear of failure in an examination is an index of ___________
+	A. a positive attitude towards examinations
+	B. grade-buying after an examination
+	C. preparation inadequacy for an examination
+	D. the student's desire to perform excellently well in an examination
+
+18:	The review of academic materials in order to understand them or permanently commit them to memory is ______________
+	A. mnemonics
+	B. revision
+	C. extensive reading
+	D. evaluation
+
+19:	Meta-communication relates to the speaker's __________
+	A. intentional choice of dress
+	B. unintentional choice of words
+	C. unintentional choice of both words and dress
+	D. intentional choice of words
+
+20:	Generally speaking, in business we communicate ________
+	A. only to inform
+	B. to both persuade and inform
+	C. only to persuade
+	D. only to entertain
+
+21:	The common medium of interaction is _________
+	A. dialect
+	B. language
+	C. facebook
+	D. idiolect
+
+22:	The method of the human communication either spoken or written 	consisting of the use of words in a structured and conventional way is 	called ________
+	A. English
+	B. Dialect
+	C. pidgin
+	D. language
+
+23:	Human communication involves the use of __________
+	A. words, sounds and signs
+	B. only words
+	C. physical materials
+	D. all of the above
+
+24:	Which of the following requires communication?
+	A. human enterprise
+	B. religion
+	C. security
+	D. all of the above
+
+25:	Poor communication skills can affect communication.
+	A. true
+	B. false
+	C. sometimes
+	D. none of the above
+
+26:	Does good communication skills aid job recruitment?
+	A. Not really
+	B. Very important
+	C. No.
+	D. Yes
+
+27:	The main components of verbal communication include the following except _________
+	A. signs
+	B. symbols
+	C. words
+	D. none of the above
+
+28:	Which type of communication starts from within?
+	A. Verbal
+	B. Interpersonal
+	C. Small-group
+	D. Intra-personal
+
+29:	The following types of communication involve two or more persons except __________
+	A. Intra-personal 
+	B. In-group
+	C. Interpersonal
+	D. Organisational
+
+30:	The type of communication that brings a small group of people together 	to solve a specific problem is _________
+	A. non-verbal
+	B. small-group
+	C. public
+	D. interpersonal.
+
+31:	Which type of communication uses secret symbols and codes?
+	A. Interpersonal
+	B. In-group
+	C. Small-group
+	D. Verbal communication
+
+32:	Which of the following is an element of communication?
+	A. Sender/receiver
+	B. Message
+	C. Channel
+	D. All of the above
+
+33:	Which element of communication determines the level of fidelity in communication?
+	A. Message
+	B. Receiver
+	C. Feedback
+	D. Sender
+
+34:	Encoder is an element of communication that prepare and sends message to the intended audience through a means called ______
+	A. channel
+	B. decoder
+	C. receiver
+	D. none of the above
+
+35:	Models of communication include the following except ___________
+	A. linear
+	B. decoder
+	C. interactive
+	D. transactional
+
+36:	Communication models are visual concepts that facilitate the understanding of the process, true or false?
+	A. True
+	B. False
+	C. Not sure
+	D. None of the above
+
+37:	Barriers of communication can also be categorized into the following except _________
+	A. physical
+	B. Psychological
+	C. mechanical
+	D. Spiritual
+
+38:	The interactive model sees communication as a ______ process.
+	A. two-way
+	B. one-way
+	C. direct
+	D. all of the above
+
+39:	The Linear Model of communication was propounded by
+	A. Charles Darwin
+	B. Woodrow William
+	C. Claude Shannon
+	D. None of the above
+
+40:	In what does language manifest as communication barrier?
+	A. Inappropriate vocabulary
+	B. misspelling of words
+	C. Poor pronunciation
+	D. All of the above
+
+41:	Noise from a passing vehicle interrupting class lecture can be classified as _________
+	A. mechanical
+	B. physical/environmental
+	C.psychological barrier
+	D. none of the above
+
+42:	Intra-personal communication occurs _________
+	A. within self
+	B. between two persons
+	C. in a group
+	D. all of the above
+
+43:	Human Communication is essentially
+	A. short-lived
+	B. imperfect
+	C. perfect
+	D. emotional
+
+44:	As a process of sharing thoughts and ideas, communication suffers mainly from ___________
+	A. both physical and non-physical barriers
+	B. gender differences
+	C. non-physical barriers
+	D. physical barriers
+
+45:	Speakers usually experience difficulty in ensuring that the message is 	____________________________
+	A. conveyed precisely
+	B. understood correctly
+	C. acted upon promptly and as desired
+	D. conveyeed precisely, understood correctly and acted upon promptly and as desired.
+
+46:	Effective communication is essentially _______________
+	A. a two-way
+	B. both a one-way and a two-way process
+	C. three-way process
+	D. one-way process
+
+47:	Which one of the following is not a form of examination?
+	A. Orals
+	B. Questioning
+	C. Practical
+	D. Interviews
+
+48:	_________ is one of the methods of written examination.
+	A. Open-book examination
+	B. Oral examination
+	C. Role-play examination
+	D. Text messaging
+
+49:	One of the ways to practise recall of information is ____________
+	A. memorizing every academic material
+	B. participating in the activity of a discussion group
+	C. by means of extensive reading
+	D. thawing up a revision timetable.
+
+50:	Apart from evaluation, ________ is another person for the conduct of examinations in educational institutions.
+	A. honouring of parentes and teachers
+	B. testing the quality of male and female students
+	C. cross-matching academic abilities
+	D. award of certificates
+
+51:	A method of written examination in which candidates are allowed to consult texts in the examination hall is known as __________________
+	A. essay method
+	B. multiple-choice method
+	C. open-book method
+	D. subjcetive method
+
+52:	Term paper writing is an example of a type of examination called
+	A. practicals
+	B. orals
+	C. open-book
+	D. take-home
+
+53:	When a student is required to make a presentation of his/her term paper and to answer questions on what he/she has written, the student 	is involved in
+	A. practicals
+	B. orals
+	C. interviews
+	D. speech presentation
+
+54:	Which one of the following is a form of mnemonics?
+	A. Past questions
+	B. Rhymes
+	C. Scanning
+	D. Brainstorming
+
+55:	A non-physiological need that can assail the listener in the context of listening is ________
+	A. illogicality of facts
+	B. hunger
+	C. ill health
+	D. fatigue
+
+56:	One of the benefits of listening is _____________
+	A. acqusition of knowledge
+	B. embarrassment of self
+	C. ignorance
+	D. illiteracy
+
+57:	The differences between interactional and secondary type of listening is ___________
+	A. the presence of interlocutors
+	B. abasence of interlocutors
+	C. information dissemination
+	D. acquisiton of knowledge
+
+58:	__________ refers to the objective dictionary definiton of a word.
+	A. Evasive  language
+	B. Connotation
+	C. Direct language
+	D. Denotation
+
+59:	__________ is used as a strategy during social interaction to avoid sending clear messages.
+	A. Emotive language
+	B. Evasive language
+	C. Language of misunderstanding
+	D. Disruptive language
+
+60:	Euphemism and equivocation ara two major types of evasive language.
+	A. Not true
+	B. Not sure
+	C. True
+	D. Probably
+
+61:	When unpleasant things are put in a nice way to avoid embarrassment, it is referred as __________
+	A. facts
+	B. opinions
+	C. equivocation
+	D. Euphemism
+
+62:	Calling someone 'plump' instead of 'fat' is an example of _________
+	A. opinion
+	B. fact
+	C. equivocation
+	D. euphemism
+
+63:	"Political Correctness" is a term associated with _______
+	A. euphemism
+	A. equivocation
+	C. paradox
+	D. politics
+
+64:	"Ambiguity" is a term associated with ___________
+	A. euphemism
+	B. equivocation
+	C. denotation
+	D. syntax
+
+65:	In language and gender in social interaction, men spend more time discussing ________
+	A. reproductive matters
+	B. clothing
+	C. weight
+	D. current events
+
+66:	In language and gender in social interaction, women spend more time discussing
+	A. music
+	B. current event
+	C. relationship problem
+	D. sports
+
+67:	Dyadic communication is a term used to describe communication between ________ people.
+	A. five
+	B. two
+	C. three
+	D. four
+
+68:	In language and culture in social interaction, Nigeria is described as "high-context culture".
+	A. True
+	B. Not true
+	C. Not sure
+	D. Probably
+
+69:	Asthetic listening can become purposeful listening when the listener.
+	A. has a specific intention in mind for listening
+	B. wishes to enjoy himself
+	C. wishes to relax
+	D. is feeling good
+
+70:	Auditory loss is usually heightened by the following except one _______
+	A. excessive noise
+	B. injury to the ear drum
+	C. constant use of electroninc earpiece
+	D. removal of excess wax from the ear
+
+71:	__________ is the term used to refer to the exposition of too much information to the listener.
+	A. Tasking
+	B. Hypnosis
+	C. Message overload
+	D. Assault
+
+72:	Apparent different ways listeners exhibit boredom in a speech event are __________
+	A. noisemaking
+	B. hooting
+	C. indiscriminate clapping
+	D. all of the above
+
+73:	Indications of effective listenig are the following except one _______
+	A. craning of neck
+	B. quietness
+	C. noise
+	D. writing
+
+74:	People of higher status usually command more attention in speech than people of lower status because _______________
+	A. people believe they have more power
+	B. they eat better
+	C. they dress better
+	D. they have better intonation
+
+75:	An effective way of improving your listening skills is by
+	A. speaking more than you are listening
+	B. making noise
+	C. writing while listening
+	D. discussing with a friend while listening in class
+
+76:	One-of the greatest media challenge to listening is the _____
+	A. radio
+	B. television
+	C. newspaper
+	D. cell phone
+
+77:	A good strategy to maximize interactional listening among family members in the face of the intrusion of social media is _________
+	A. sell off your media gadgets
+	B. stop watching television
+	C. draw a good timetable and time your attention to social media
+	D. loan your phone to your friend
+
+78:	A good vocabulary is easily acquired by __________
+	A. listening extensively
+	B. talking more than you listen
+	C. engaging in frivolities while others listen
+	D. not paying attention
+
+79:	The best way to become abreast with points lost whilel lisening is to listen for _________
+	A. new ideas
+	B. clues
+	C. acronyms
+	D. blends
+
+80:	One way a listener can avoid speaker related problems is to _______
+	A. be biased about a speaker
+	B. let your prejudice overshadow his information
+	C. expose him to the police
+	D. ignore the speaker's idiosyncracies and accept his message
+
+81:	One way of maximizing listening efficiency during lectures is to ____
+	A. shut your mind to the information
+	B. avoid premature judgement
+	C. draw faulty assumptions
+	D. occupy yourself formulating questions before you grasp the entire information
+
+82:	The medium through which information filters into our ears is called __________
+	A. tunnel
+	B. funnel
+	C. channel
+	D. Chantal
+
+83:	Equivocal language is the one that _________
+	A. is meaningful
+	B. has more than one meaning
+	C. is difficult to pronounce
+	D. is difficult to understand
+
+84:	AWOL as a military term is an example of _______
+	A. slang
+	B. relative term
+	C. jargon
+	D. equivocal language
+
+85:	A vague expression such as "I don't know" is an example of _______
+	A. abstract language
+	B. equivocal language
+	C. relative term
+	D. slang
+
+86:	Adler and Rodmen classified disruptive language into _______ groups.
+	A. two
+	B. three
+	C. four
+	D. five
+
+87:	The problem associated with disruptive language is that options and inferences are presented as facts.
+	A. Not True
+	B. True
+	C. Not sure
+	D. Probably
+
+88:	To show affliations, language is used to build and demonstrate solidarity with others.
+	A. Not sure
+	B. Probably
+	C. True
+	D. Not true
+
+89:	On an opposite level, groups who want to highlight their difference within a homogenous group used the opposing linguistic strategy of 		convergence.
+	A. Probably
+	B. Not sure
+	C. True
+	D. Not true
+
+90:	The three groups of disruptive language are fact-opinion confusion, fact-inference, confusion and __________
+	A. emotive language
+	B. opinion language
+	C. fact giving language
+	D. inference language
+
+91:	The assimilation of information is more effective when it is _______
+	A. haphazard
+	B. chaotic
+	C. fragmented
+	D. Organized
+
+92:	One of the most poweful instruments a speaker can use to his advantage to control the rate of listening among his audience is the ________
+	A. hands
+	B. face
+	C. voice
+	D. body
+
+93:	Which of these language skills is ranked first in the taxonomy of language skills?
+	A. Listening
+	B. speaking
+	C. reading
+	D. writing
+
+94:	A(n) _____ may not change the part of speech of the base or core word but a(n) ________ together with the core word may change to another
+	part of speech.
+	A. suffix........prefix
+	B. infix........prefix
+	C. infix........infix
+	D. prefix........suffix
+
+95:	"read" and "peruse"; "speak" and "talk" are ______ synonyms.
+	A. perfect
+	B. imperfect
+	C. absolute
+	D. total
+
+96:	There are few cases in the English language where suffixation does not _________ the word class of the core or base word. The right word for 		the open space above is ?
+	A. altar
+	B. utter
+	C. alter
+	D. offer
+
+97:	A prefix which means "against" when added to certain words is ________.
+	A. anti-
+	B. ante-
+	C. anthem-
+	D. ant-
+
+98:	One of these is an adjective. Which one?
+	A. moveable
+	B. move
+	C. movement
+	D. moves
+
+99:	One of these is not a gradable adjective. Which one?
+	A. hot
+	B. black
+	C. low
+	D. true
+
+100:	When words have the same form or spelling, the same sound but different meanings, they are _____________
+	A. homophones
+	B. homonyms
+	C. acronyms
+	D. polysyllables
+
+101:	An acronym in the following list is _________
+	A. EEDC
+	B. NYSC
+	C. UFO
+	D. ISBN
+
+102:	The odd word in the semantic field below is ______
+	A. drizzle
+	B. shower
+	C. rain
+	D. ruin
+
+103:	Hand of a clock; hand of a human being; "hand" of an animal. Hand in the instances listed can be rightly called ________
+	A. polysemy
+	B. tautology
+	C. polysyllable
+	D. homonym
+
+104:	 In a dictionary entry vi against a word means _______
+	A. Victoria island
+	B. verb intransitive
+	C. verb transitive
+	D. visually impaired.
+
+105:	Color and colour are spellings of the same word. In the dictionary, the first is indicated as _________________
+	A. BrE while the second is indicated as AmE.
+	B. AuE while the second is indicated as BrE.
+	C. AmE while the second is indicated as BrE.
+	D. SpE while the second is indicated as AmE.
+
+106:	If I were in the class, I would have answered the question. Which of the options best interprets the sentence?
+	A. The speaker was in the class but answered the question wrongly.
+	B. The speaker was in the class but answered the question correctly.
+	C. The speaker was not in the class and did not answer the question.
+	D. The speaker wanted to be in the class but was not allowed to do so.
+
+107:	In the pronunciation of the word, plumber, one of the following sounds is not a part of the phonological structure of the word. Which one?
+	A. /b/
+	B. /p/
+	C. /m/
+	D. /l/
+
+108:	In the phonemic transcription of the word, alive, the sound structure is _____________
+	A. VCVVC
+	B. VCVC
+	C. VCVCV
+	D. CCVCV
+
+109:	Claustrophobia means _________
+	A. fear of water
+	B. fear of deserts.
+	C. fear of heights.
+	D. fear of enclosed spaces.
+
+110:	The young man is a chameleon. The word chameleon should be understood ____________
+	A. literally.
+	B. denotatively.
+	C. as a smile.
+	D. connotatively.
+
+111:	The correct syllabication of the word, concatenation, is ___________
+	A. conc-ate-na-tion
+	B. con-cate-na-tion
+	C. co-nca-te-na-tion
+	D. con-cat-e-na-tion
+
+112:	The word indescribable has 
+	A. three syllables
+	B. four syllables
+	C. five syllables
+	D. six syllables
+
+113:	The English language first came to Nigeria in the early _______ century
+	A. 15th
+	B. 14th
+	C. 16th
+	D. 17th
+
+114:	L1 means __________
+	A. international language
+	B. foreign language
+	C. first language
+	D. national language
+
+115:	Speaking and writing are regarded as _______ skills.
+	A. productive
+	B. passive
+	C. receptive
+	D. active
+
+116:	The feature of language which identifies the ability of language to capture new realitites is termed ___________
+	A. conventionality
+	B. creativity
+	C. dynamism
+	D. Arbitrariness
+
+117:	A language used in a country with diverse ethic backgrounds to facilitate communication is ____________
+	A. a foreign language
+	B. official language
+	C. lingua franca
+	D. first language
+
+118:	Which of the following languages is used as a foreign language in Nigeria?
+	A. Igbo
+	B. English
+	C. French
+	D. Yoruba
+
+119:	A language that is part of the user's native culture is known as _____
+	A. mother tongue
+	B. national language
+	C. second language
+	D. foreign language
+
+120:	There is no verifiable evidence to support the origin of language and as such, all the theories of origin of language are regarded as _________
+	A. speculations
+	B. demonstrations
+	C. pronouncements
+	D. all of the above
+
+121:	A language in which a user is expected to demonstrate greatest proficiency is his/her ________
+	A. lingua franca
+	B. national language
+	C. first language
+	D. none of the above
+
+122:	The innate ability which man is endowed with that enables him to acquire language is _______
+	A. language memorization
+	B. the brain
+	C. language acquisition device
+	D. none of the above
+
+123:	LAD means ________
+	A. language advertisement agency
+	B. language acquisition ability
+	C. lack of acquisition device
+	D. language acquisition device
+
+124:	Language is dynamic. This means that __________
+	A. it changes over time
+	B. it is meaningful
+	C. language is a means of communication
+	D. all of the above
+
+125:	The ability of an individual to make use of two different languages is termed _________
+	A. multilingualism
+	B. bilingualism
+	C. extralingualism
+	D. prolingualism
+
+126:	A specialist in language is known as a _________
+	A. linguist
+	B. scholar
+	C. student
+	D. philosopher
+
+127:	A nation where many languages are spoken is regarded as a _____ nation.
+	A. bilingual
+	B. monolingual
+	C. multiligual
+	D. none of the above
+
+128:	Language as an instrument of social identity means that language _____
+	A. influences the people that use it
+	B. is an instrument of communication
+	C. is an embodiment of people's culture
+	D. helps people to interact within a given context.
+
+129:	First language, according to input hypothesis, is acquired while second language is __________
+	A. learned
+	B. captured
+	C. understood
+	D. produced
+
+130:	The study of different stages of language acquisitions is refered to as ___________
+	A. sociolinguistics
+	B. psycholinguistics
+	C. applied linguistics
+	D. none of the above
+
+131:	The study of language at the word level is _______
+	A. phonetics
+	B. phonology
+	C. morphology
+	D. syntax
+
+132:	To achieve a successful communication, one requires ______
+	A. phrases
+	B. clauses
+	C. sentences
+	D. all of the above
+
+133:	The use of vague words by a writer/speaker shows his __________
+	A. intellect
+	B. exposure
+	C. uncertainty
+	D. attitude
+
+134:	Those who listen to a speaker, or read his write up are referred to as _________
+	A. people
+	B. crowd
+	C. audience
+	D. interlocutors
+
+135:	The secret of one who communicates effectively to children as well as adults is his understanding of ________________
+	A. concatenation
+	B. collocation
+	C. connotation
+	D. word choice
+
+136:	_______ refers to the setting, framework, background, situations and environment in which communication takes place.
+	A. Condition
+	B. Context
+	C. Clues
+	D. Collaboration
+
+137:	The words that co-occur with an unfamiliar word in an expression which helps one guess the meaning of the unfamiliar word are called _____________
+	A. context clues
+	B. context collocations
+	C. context clusters
+	D. context consonance
+
+138:	Psychological context could refer to ___________
+	A. the well-being of the speaker and the audience
+	B. the mood and emotions of the audience
+	C. the beliefs and values of a group of people
+	D. the relationship between the speaker/writer and the audience
+
+139:	The wording of a funeral oration should be _____________
+	A. jovial
+	B. rhetorical
+	C. somber
+	D. flowery
+
+140:	The speech of a speaker could be delivered ___________
+	A. expertly
+	B. connotatively
+	C. naively
+	D. impromptu
+
+141:	When a speaker takes cognizance of the actual location, time of the day and so on, before choosing his words for an address, he considers ____ context.
+	A. historical
+	B. physical
+	C. cultural
+	D. social
+
+142:	Being rhetorically sensitive in communication means _______
+	A. showing oratory prowess
+	B. relying heavily on jargons
+	C. knowing what kind of words are appropriate
+	D. using rhetorics in speech
+
+143:	An example of a phrase one can use to add a reason that is thought more important than former reasons is __________
+	A. for this reason
+	B. on the other hand
+	C. in actual fact
+	D. what is more
+
+144:	The /p/ sound in 'pins' contrasts with the ______ sound in 'bins'.
+	A. /s/
+	B. /n/
+	C. /h/
+	D. /b/
+
+145:	The term 'vocal tract' can also be called
+	A. speech tract
+	B. throat tract
+	C. buccal tract
+	D. nasal tract
+
+146:	When we speak, a stream of air passes outward from the ___________
+	A. mouth
+	B. lungs
+	C. nostrils
+	D. throat
+
+147:	An individual's ________ quality derives from a combination of pitch height, loudness level, tempo and timbre of speaking
+	A. harmony
+	B. voice
+	C. lag
+	D. prosodic
+
+148:	IPA stands for _________
+	A. Interpretive Program Accent
+	B. Intervolic Phonetics Alphabet
+	C. Intonation Phonic Accentuation
+	D. International Phonetic Alphabet
+
+149:	Speech sounds are divided into _____ main types.
+	A. 5
+	B. 2
+	C. 7
+	D. 26
+
+150:	Phones combine into larger units called ______
+	A. phonetics
+	B. phonology
+	C. syllables
+	D. phonemics
+
+151:	CVC cluster means __________
+	A. Contoid Velar Contoid cluster
+	B. Consonant Vowel Consonant cluster
+	C. Coarticulation Velum Coarticulation cluster
+	D. Complementary Vowel Complementary cluster
+
+152:	_______ sounds involve a constriction at some point in the vocal tract.
+	A. Glottalic
+	B. Velaric
+	C. Phonemic
+	D. Consonant
+
+153:	When the vocal folds are held apart, sounds are produced.
+	A. voiceless
+	B. voiced
+	C. voiced-in
+	D. voicer-over
+
+154:	_______ phonetics concerns the perception of speech sounds.
+	A. Articulatory
+	B. Auditory
+	C. Acoustic
+	D. Allophonic
+
+155:	The two purposes why we take notes are for _____ and ______
+	A. reading and writing
+	B. examination and research
+	C. listening and paraphrasing
+	D. conjectural and inferential
+
+156:	The first rule of good note-taking demands _______
+	A. that we put down the writer's ideas in the writer's own words
+	B. that we put down the writer's ideas in our own words
+	C. that we produce what is equivalent to the writer's ideas
+	D. that we allow our thought process to flow
+
+157:	The second rule of note-taking requires that the note should be _____
+	A. voluminous
+	B. brief
+	C. complete
+	D. paraphrased
+
+158:	_______ method is a more visual way to organize your note in the class.
+	A. The mapping note
+	B. The tapping note
+	C. The clear note
+	D. The learning note
+
+159:	One advantage of the outline note-taking method is that ______
+	A. it makes note taking easier for visual impaired students
+	B. it is easy to turn pointes into study question
+	C. it aids loud reading
+	D. it is a kind of mnemonic
+
+160:	________ note-taking method useS columns to organize information.
+	A. mapping
+	B. outline
+	C. charting
+	D. tapping
+
+161:	For lessons covering a lot of facts or relationships between topics, _________ method of note-taking is recommended.
+	A. charting
+	B. writing
+	C. mapping
+	D. cutting
+
+162:	The sentence note-taking method involves ________
+	A. listing only the major points
+	B. writing down each topic as a jot note sentence
+	C. highlighting pieces of information
+	D. underlying topic sentences
+
+163:	Which of the following statements is not true?
+	A. Taking organized and thoughtful notes can help improve one's underling of what one has read.
+	B. Jotting main points helps determine which information and which is not.
+	C. The sentence method of note-taking does not simplify notes for study and review.
+	D. Active listening is important for effective note-taking during lectures.
+
+164:	Which of the following is the least strategy for effective listing that improves note-taking?
+	A. I tried to find out why this information is important
+	B. I formulated a question and asked a friend next to me during the lecture.
+	C. I tried to select main ideas and supporting sentences.
+	D. I sat near the front of the room to avoid outside distractions and internal noise.
+
+165:	If I use the sentence, "Paying attention increases study ability" to remind me of the names of the five oceans of the world, the type of mnemonices used is __________
+	A. keyword
+	B. acrostics
+	C. acronym
+	D. association
+
+166:	The study of strategies that enhance the recall of information is known as ________
+	A. remembering
+	B. ferreting
+	C. revision
+	D. mnemonics
+
+167:	Any strategy successfully employed to assist the memory in the task of recall of information is regarded as a _______
+	A. mnemonics
+	B. technique
+	C. skill
+	D. strategic methodology
+
+168:	Which one of the following is not a type of conduct expected of a candidate during an examination?
+	A. obedience to exam invigilators
+	B. answering questions in any sequences
+	C. helping a fellow candidate to understand a question
+	D. being the last person to submit script
+
+169:	Which one of the following words used in asking questions suggests that candidate's answer is expected to be elaborate?
+	A. Explain
+	B. Mention
+	C. List
+	D. Enumerate
+
+170:	The first step in research writing is __________
+	A. reading extensively
+	B. choosing a topic
+	C. going to the library
+	D. collection of material
+
+171:	Research papers include all but one of the following options:
+	A. thesis
+	B. report
+	C. term paper
+	D. memorandum
+
+172:	A research paper written to give an orderly account of an incident is known as __________
+	A. report
+	B. a statement
+	C. a judgement
+	(d0 a thesis
+
+173:	The type of research writing mostly done by first year students is the
+	A. dissertation
+	B. thesis
+	C. term paper
+	D. none of the above
+
+174:	Which of the following is not a source of materials for research writing?
+	A. Lecturer's notes
+	B. Textbooks
+	C. Interviews
+	D. Objective questions
+
+175:	A term paper normally has chapters.
+	A. five
+	B. four
+	C. six
+	D. three
+
+176:	The cover page of a term paper contains all but one of the following:
+	A. list of strange words
+	B. topic of the paper
+	C. name of the student
+	D. the lecturer's name
+
+177:	The preliminary pages are numbered with ________
+	A. letters of alphabet
+	B. Roman numerals
+	C. Arabic numerals
+	D. none of the above
+
+178:	The main text of a research paper starts with the _________
+	A. glossary
+	B. list of tables
+	C. abstract
+	D. introductions
+
+179:	The preliminary pages do not include __________
+	A. dedication
+	B. introduction
+	C. acknowledgements
+	D. title page
+
+180:	The main text of a research paper like the term paper is divide into 
+	A. pages
+	B. chapters
+	C. topics
+	D. none of the above
+
+181:	Documentation in research writing helps one to avoid an academic offence as ___________
+	A. theft
+	B. copying
+	C. plagiarism
+	D. dishonesty
+
+182:	The part of a research paper that contains the translation or explanation of foreign and technical words is the ____________
+	A. glossary
+	B. appendix
+	C. abbreviations
+	D. list of tables
+
+183:	________ shows the list of chapters, heading, sub-headings and the pages where they are located in the research paper.
+	A. Cover page
+	B. Title page
+	C. Preface
+	D. Table of contents
+
+184:	In research writing, direct, quotations are usually identified by which of the following punctuation marks?
+	A. full stop
+	B. inverted commas
+	C. colon
+	D. semi-colon
+
+185:	For easier referencing at the end of a research paper, a researcher needs to ________
+	A. quote appropriately
+	B. write down complete bibliographical information of sources consulted
+	C. learn documentation styles
+	D. none of the above
+
+186:	A tentative bibliography is also known as bibliography.
+	A. final
+	B. sample
+	C. working
+	D. conventional
+
+187:	Lengthy quotations are ________ while writing a research paper.
+	A. capitalized
+	B. ignorance
+	C. indented
+	D. not allowed
+
+188:	A statement that captures the essence of a researach work is the ____
+	A. research topic
+	B. topic sentences
+	C. summary of the research
+	D. all of the above
+
+189:	Part of the research paper where the researchere makes an analysis of what others have down on the topic is the ________
+	A. abstract
+	B. literature review
+	C. data analysis
+	D. documentation
+
+190:	The process of going into the field to collect the necessary information required for research writing is known as ______
+	A. observation
+	B. experimentation
+	C. data collectio
+	D. none of the above
+
+191:	The main text of a research report ends with the _________
+	A. introduction
+	B. conclusion
+	C. references
+	D. glossary
+
+192:	A set of questions which is designed to elicit information from group of persons in the course of a research is rightfully regarded as ________
+	A. questionnaire
+	B. variable
+	C. article
+	D. none of the above
+
+193:	The primary function of language is to communicate for _____ purposes.
+	A. religious
+	B. social
+	C. economic
+	D. academic
+
+194:	Language as a communication system, interpersonal communication, communication in groups and ________ are the four major perspectives in which language of social interaction could be investigated.
+	A. international communication
+	B. local communication
+	C. public communication
+	D. social communication
+
+195:	______ identified four major theories about how languages started.
+	A. Lyon
+	B. Aristotle
+	C. Plato
+	D. Yule
+
+196:	____________, Divine source, Natural Sounds source and Oral Gesture source are the four theories about how language began.
+	A. Physiological Adaptation
+	B. Psychological Adaptation
+	C. Philosophical Adaptation
+	D. Academic Adaptation
+
+197:	The Divine source theory is of the view that language came from ____
+	A. the spirit
+	B. God
+	C. the gods
+	D. spirituality
+
+198:	___________ believes that language started from human echoing natural sounds.
+	A. Natural sounds sources
+	B. Psychological Adaptation
+	C. Oral-gesture sources
+	D. Physiological Adaptation
+
+199:	___________ established six characteristics which differentiate language from other communication systems.
+	A. Chomsky
+	B. Yule
+	C. Lyon
+	D. Plato
+
+200:	Cultural, duality, discreteness, displacement, arbitrariness and _____ are the features that distinguish language from other communication systems.
+	A. reproduction
+	B. productivity
+	C. provision
+	D. social
+
+201:	________ relates to the transmission of language from one generation to the other.
+	A. Social
+	B. Duality
+	C. Reproduction
+	D. Cultural
+
+202:	When language is seen as comprising different distinct sounds that have meanings, it is referred to as _________
+	A. productivity
+	B. discreteness
+	C. arbitrariness
+	D. displacement
+
+203:	Duality refers to _______ levels of language.
+	A. three
+	B. five
+	C. four
+	D. two
+
+204:	The symbolic nature of language is also called the _______ of language.
+	A. arbitrariness
+	B. duality
+	C. reproductivity
+	D. interrelationship
+
+205:	Communication in language involves the sender, the receiver and the __
+	A. recipient
+	B. messenger
+	C. message
+	D. addresser
+
+206:	__________ refers to the manner in which the sender or receiver constructs a message.
+	A. Decode
+	B. Code
+	C. Coder
+	D. Decoder
+
+207:	A message is communicated by means of ________ and ________
+	A. code and channel
+	B. sender and receiver
+	C. addresser and addressee
+	D. messaging and recipient
+
+208:	Verbal and non-verbal _____________ are ways of messagees.
+	A. decoding
+	B. understanding
+	C. coding
+	D. channeling
+
+209:	___________ refers to the medium selected for communication.
+	A. Code
+	B. Channel
+	C. Verbal
+	D. Non-verbal
+
+210:	Spoken and written are ways of ________ messages.
+	A. decoding
+	B. understanding
+	C. coding
+	D. channeling
+
+211:	________ and ______ in their book use a transactional model so describe the process of communication.
+	A. Yule and Lyon
+	B. Adler and Rodman
+	C. Adler and Yule
+	D. Lyon and Rodman
+
+212:	________ in social interaction is used to ascertain if a given interaction is going as it should or should not.
+	A. Coding
+	B. Decoding
+	C. Feedback
+	D. Receiving
+
+213:	_______ states that the primary function of language is for social interaction.
+	A. David Crystal
+	B. David Cambel
+	C. Noam Chomsky
+	D. Plato
+
+214:	The main purpose of social interaction function of language is _______
+	A. to maintain rapport between people
+	B. for friendliness
+	C. for comradeship
+	D. all of the above
+
+215:	In language for social interaction, _______ influences an individual's perception of the credibility and status of the person speaking.
+	A. speech style
+	B. eloquence
+	C. loudness
+	D. none of the above
+
+216:	The first part of a research paper is ________
+	A. the text
+	B. the subsidiaries
+	C. the preliminaries
+	D. all of the above
+
+217:	Language shapes attitude in terms of credibility, status, sexism and _____
+	A. individuality
+	B. togetherness
+	C. racism
+	D. communal living
+
+218:	________ relates to gender sensitive language.
+	A. Racism
+	B. Sexism
+	C. Individuality
+	D. Credibility
+
+219:	When language is relatively used against a given ethnic group, it is known as ________
+	A. unfriendliness
+	B. sexism
+	C. racism
+	D. all of the above
+
+220:	Most language problems are associated with ________ because of our inability to understand a message completely or accurately.
+	A. syntax
+	B. phonology
+	C. semantics
+	D. morphology
+
+221:	Broadly speaking, three categories of problematic language are misunderstanding evasive and ____________
+	A. disruptive
+	B. deceptive
+	C. divisive
+	D. decisive
+
+222:	Slangy expression is an example of __________
+	A. language of misunderstanding
+	B. evasive language
+	C. disruptive language
+	D. deceptive language
+
+223:	"English language is spoken by more than 750 million people in the world", this is a/an __________
+	A. opinion
+	B. inference
+	C. fact
+	D. emotive
+
+224:	__________ refers to personal feelings and mental associations of wors.
+	A. Denotation
+	B. Connotation
+	C. Equivocal language
+	D. Disruptive language
+
+225:	The word communication is derived from "communis" (Latin) which means __________
+	A. oral speech
+	B. common
+	C. message
+	D. community
+
+226:	Filters that affect the content of a message are in ________
+	A. the mind of the listener
+	B. the medium of communication
+	C. the mind of the speaker
+	D. the minds of both the speaker and the listener
+
+227:	Meta-communication relates to the speaker's ______________
+	A. unintentional choice of both words and dress
+	B. intentional choice of dress
+	C. unintentional choice of words
+	D. intentional choice of words
+
+228:	Generally speaking, in business we communicate _________
+	A. only to persuade
+	B. to both persuade and inform
+	C. only to inform
+	D. only to entertain
+
+229:	In general, human beings are ___________
+	A. poor communicators
+	B. perfect communicators
+	C. good communicators
+	D. indifferent communicators
+
+230:	In the braodcast sense, communication may be defined as ______
+	A. solving problems
+	B. acting upon information
+	C. developing relationships
+	D. participating in civil life
+
+231:	The message transfer model is best illustrated by which question?
+	A. "Did you get my message?"
+	B. "What is your feedback to my message?"
+	C. "How does interaction shape my message?"
+	D. "How does context shape my message?"
+
+232:	Taking notes during lectures may be in the form of _____ and ______
+	A. outline and paraphrasing
+	B. outline and connected sentences
+	C. heading and lecture writing
+	D. writing and paraphrasing
+
+233:	Notes may include material that is either _______ or ________
+	A. paraphrased/verbatim
+	B. discussed or spoken
+	C. none of the above
+	D. all of the above
+
+234:	Two main sources from where notes can be taken are _______ and _______
+	A. sermon and broadcast
+	B. reading and writing
+	C. books and lectures
+	D. none of the above
+
+235:	One of the conditions necessary for drawing up an accurate outline is _______
+	A. reading the main ideas
+	B. visualizing the context
+	C. noting the topic
+	D. reading through the selection
+
+236:	One of the guidelines towards effective note-taking is __________
+	A. share your time between reading and speaking
+	B. share your time between listening and writing
+	C. avoiding standard abbreviations
+	D. habitual lateness to class
+
+237:	In order to increase one's speed during note-taking, ______ and ______ are recommended?
+	A. outline and reviews
+	B. listening and writing
+	C. standard abbreviations and symbols
+	D. all of the above
+
+238:	The abbreviation "nb" means _______
+	A. never borrow
+	B. new book
+	C. note number
+	D. note better
+
+239:	Taking note of recommended texts for extra reading facilities note-taking.
+	A. False
+	B. True
+	C. None of the above
+	D. all of the above
+
+240:	Two important ways one takes notes from texts during private reading
+	are __________ and _________
+	A. comparing and contrasting ideas
+	B. identification and comprehension of subject matter
+	C. noting information source and outlining it
+	D. outlining and underlining in the text and separate note pad
+
+241:	Another word for conitnuous connected sentences as a technique for note-taking is _________
+	A. summary
+	B. outline
+	C. selection
+	D. writing
+
+242:	The __________ helped in the introduction and use of the standard variety of the English language in Nigeria.
+	A. colonial administrators
+	B. Europeans
+	C. missionaries
+	D. Portuguese
+
+243:	Countries that have national languages include _________ and ___________
+	A.Tanzania and Turkey
+	B. Japan and Canada
+	C. British Canada and French Canada
+	D. Saudi Arabia and Japan
+
+244:	English mostly occurs as a second language in __________ contexts.
+	A. inter-ethic
+	B. multilingual
+	C. monolingual
+	D. international
+
+245:	How many countries make up the commonwealth?
+	A. 82
+	B. 32
+	C. 54
+	D. 52
+
+246:	Commonwealth countries are ____________________
+	A. countries that have a common wealth
+	B. countries that have common natural resources
+	C. countries that were colonized by a common country
+	D. countries that were colonized by the British
+
+247:	The head of the Commonwealth is ______________
+	A. the UN President
+	B. the American President
+	C. the Queen of England
+	D. the Pope
+
+248:	Two commonwealth nations I know are ______ and _________
+	A. America and Turkey
+	B. Nigeria and Ghana
+	C. Kenya and Welsh
+	D. Russia and Nigeria
+
+249:	Two terms that refer to a second language are _________ and _______
+	A. official language and lingua franca
+	B. lingua franca and second language
+	C. national language and lingua franca
+	D. official language and national language
+
+250:	Linguistic interference occurs at _______ levels.
+	A. five
+	B. three
+	C. four
+	D. two
+
+251:	The features inherent in the English langugae which pose problems to second language users are __________, __________, ________ and _________
+	A. phonological, structural, grammatical, linguistic
+	B. semantic, morphological, grammatical, phonological
+	C. syntactic, semantic, phonological, grammatical
+	D. morphological, syntactic, semantic, phonological
+
+252:	When the speech patterns of a first language hinders effective pronunciation of the second language, ________ interference occurs.
+	A. phonemic
+	B. phonetic
+	C. phonological
+	D. phonophonemic
+
+253:	Which ethnic group uses the lateral /l/ in place of the liquid /r/?
+	A. Yoruba
+	B. Igbo
+	C. Itsekiri
+	D. Urhobo
+
+254:	Which ethnic group uses the dental /t/ for the dental /r/
+	A. Igbo
+	B. Yoruba
+	C. Itsekiri
+	D. Urhobo
+
+255:	Which speakers interchange the labio-dental /v/ for /f/?
+	A. Hausas
+	B. Urhobos
+	C. Yorubas
+	D. Igbos
+
+256:	_________ is a major study skill which one requires in the judgement and selection of salient points in a lecture and planning long essays.
+	A. Undelining
+	B. Summarizing
+	C. Selection
+	D. Outlining
+
+257:	_________ is a formal representation of the writer's views.
+	A. Note-taking
+	B. The outline method
+	C. The summary method
+	D. The underlining method
+
+258:	Outlining major points during lectures and from books aids comprehension and retention.
+	A. True
+	B. False
+	C. All of the above
+	D. None of the above
+
+259:	Choose the odd item from the list:
+	A. the outline has a definite form
+	B. the outline contains both major and minor divisions
+	C. the outline has chapters
+	D. the major and minor divisions correspond to the main ideas and secondary details of the selection
+
+260:	Which of the following statements is true?
+	A. summary is a reduced version of an original passage
+	B. Summary is the same thing as an abridgement
+	C. Understanding the logical sequence of ideas is not good for writing a summary
+	D. The inclusion of one's personal opinion of the writer's ideas is necessary for summary writing
+
+261:	______ and _________ are the suitable examples of oral reading
+	A. Book review and recitation
+	B. Hallucination and hypothesis
+	C. Public speeches and news broadcast
+	D. Meditation and retentiveness
+
+262:	__________ and ______ are suitable examples of silent reading.
+	A. Public announcement and seminar
+	B. Minutes of the meeting and memorandum
+	C. Conference papers and valedictory address
+	D. Road signs and assignments
+
+263:	Silent reading can be classified into ________ and ________
+	A. thinking and meditation reading
+	B. perusing and reading
+	C. intensive and extensive reading
+	D. murmuring and progressive reading
+
+264:	The most crucial study technique which is interactive is ______
+	A. studying the course outline
+	B. attending classes
+	C. acrostics
+	D. mind maps
+
+265:	________ are generally aimed at keeping the learner's materials to his knowledge base.
+	A. Sketches
+	B. Study methods
+	C. Diagrams
+	D. Mnemonics
+
+266:	Studying when one is motivated can be regarded as _______
+	A. a good study habit
+	B. rewarding
+	C. a bad study habit
+	D. essential to study
+
+267:	An appropriate study environment is all but the following:
+	A. Provides the needed study materials
+	B. should be fixed
+	C. Improves the learner's ability to concentrate
+	D. Must be in a quiet environment
+
+268:	Study techniques that are pictorial in nature are called
+	A. diagrams
+	B. mind maps
+	C. sketches
+	D. mental icons
+
+269:	The following is not a study method:
+	A. Making a schedule
+	B. Internalized reading
+	C. Use of abbreviations
+	D. Taking of good notes
+
+270:	A writer's acknowledgement of his sources through proper documentation is indicative of _________ and ______ in scholarhip.
+	A. honesty and courtesy
+	B. originality and honesty
+	C. simplicity and courtesy
+	D. creativeness and humilitY
+
+271:	The recording in research of words and ideas borrowed from other scholars by a writer can be regarded as ____________
+	A. MLA
+	B. APA
+	C. Documentation
+	D. research
+
+272:	Infringement of copyright is as a result of lack of
+	A. research
+	B. documentation
+	C. MLAstyle
+	D. properorganizationofthought
+
+273:	Academic theft or dishonesty canot herwise be called _____
+	A. copyright
+	B. plagiarism
+	C. misbehavior
+	D. laziness
+
+274:	In research, which of the following is not a material for Documentation?
+	A. directquotation
+	B. opinions
+	C. ideas and facts consulted
+	D. researchable questions
+
+275:	There are _______ documentation styles.
+	A. two
+	B. four
+	C. many
+	D. few
+
+276:	Which of the following is not a purpose of documentation?
+	A. Makes for further reading
+	B. Makes for further infringement of copyright
+	C. Makes for avoidance of plagiarism
+	D. Gives insight to the reader about the sources of materials used
+
+277:	With regard to documentation, identify the odd option in the list of items below:
+	A. references
+	B. footnotes
+	C. bibliography
+	D. biography
+
+278:	Which of these documentation styles has two versions?
+	A. APA
+	B. MLA
+	C. CSE
+	D. CBE
+
+279:	End notes can also be regarded as _________________
+	A. citations
+	B. workscited
+	C. footnotes
+	D. topnotes
+
+280:	Academic research requires to b eaccompanied with ________________
+	A. money
+	B. biographic sources
+	C. bibliographic sources
+	D. thesis
+
+281:	Bibliographical sources enable readers to locate the sources about the research.
+	A. financial sources
+	B. biographical geographical
+	C. geographical
+	D. information
+
+282:	_________ is of great value to a researcher for the continuation of more research activities.
+	A. Geographical sources
+	B. Biographic sources
+	C. Bibliographical sources
+	D. Financial sources
+
+283:	A disciplined process of investigation and fact finding that leads to the discovery of truth about an issue can best be described as _____________
+	A. termpaper
+	B. thesis
+	C. research
+	D. longessay
+
+284:	Part of the goal of a term paper is to train students in _____________
+	A. organizationofthought
+	B. writing essays
+	C. reading extensively
+	D. listening exercise
+
+285:	Which of the following options is not part of the goal of a research work?
+	A. organization of facts
+	B. informations ifting
+	C. precision writing
+	D. writing competition
+
+286:	A research paper can be any of the following options except one. Identify it.
+	A. term paper
+	B. thesis
+	C. longessay
+	D. lecture notes
+
+287:	___________ is an important feature of research that enables readers to locate the sources of information for their own research works.
+	A. Cross-referencing
+	B. Precision writing
+	C. Modern Language Association
+	D. American Psychological Association
+
+288:	A research work is regarded as having originality when __________
+	A. the supervisor scrutinizes the work
+	B. the sources of the materials can be located
+	C. (NO OPTION)
+	D. (N0 OPTION)
+
+289:	One of the language skills that requires the use of complex thought processes to interpret printed symbols is __________________
+	A. listening
+	B. reading
+	C. speaking
+	D. writing
+
+290:	A study technique where a special sentence is coined from the first letter of a sequence to be learned is called _______________
+	A. acronym
+	B. studyclues
+	C. acrostics
+	D. blending
+
+291:	Parenthetical citations can also be called _____________ citations.
+	A. workscited
+	B. references
+	C. in-text
+	D. bibliographical
+
+292:	Which of the following does not belong to the triple entry style of documentation?
+	A. APA
+	B. Harvard
+	C. MLA
+	D. CBE
+
+293:	The reduction of poly-syllabic words to shorter acceptable forms is termed _______
+	A. coinage
+	B. chunking
+	C. clipping
+	D. blending
+
+294:	The purpose of listening is established to determine the following except ________
+	A. concentration
+	B. focus
+	C. retrieval
+	D. attention
+
+295:	In the use of the reading/study formula, the 3R stands for ______________
+	A. Read, Repeat and Review
+	B. Review, re-read and Recall
+	C. Read, Review and Recall
+	D. Read, Recall and Review
+
+296:	A combination of two separate words to form a new word is called
+	A. coinage
+	B. word-formation
+	C. borrowing
+	D. blending
+
+297:	Which form of note-taking retains the same sequence as the original text?
+	A. Outlining
+	B. Mindmaps
+	C. Tables/Grids
+	D. Charts
+
+298:	Language is primarily _________
+	A. auditory
+	B. vocal
+	C. written
+	D. all of the above
+
+299:	A major feature of animal language that differentiates it from human language is its ____________
+	A. Instinctiveness
+	B. instinct
+	C. transmittablenature
+	D. logicality
+
+300:	The tacit agreement between speakers of a language with regard to usage can be regarded as __________
+	A. symbolism
+	B. traditionality
+	C. conventionality
+	D. creativeness
+
+301:	Language is open-ended; this means that it is _____________
+	A. symbolic
+	B. generative
+	C. systematic
+	D. traditional
+
+302:	That "Language is built on a highly connected system of sound, meaning, morphology and grammar" implies that language is ____________
+	A. creative
+	B. symbolic
+	C. structural
+	D. linguistic
+
+303:	Which of the following is not a part of the contextual situation of language?
+	A. social context
+	B. cultural context
+	C. psychological context
+	D. none of the above
+
+304:	Which of the following is not a sub-division of the spoken mode?
+	A. conversation
+	B. command
+	C. phaticcommunion
+	D. journalese
+
+305:	Language is used indifferent __________ for different purposes.
+	A. situations
+	B. enquiries
+	C. descriptions
+	D. variations
+
+306:	Variations within a language resulting from differences in location are called
+	A. sociolect
+	B. dialects
+	C. style
+	D. register
+
+307:	Any set of one or more varieties of a language can be regarded as  _________
+	A. register
+	B. style
+	C. dialect
+	D. sociolect
+
+308:	The contextual meaning of a word refers to ___________________
+	A. the meaning of the word as used in the dictionary
+	B. the meaning of the word as used in the text
+	C. the meaning of the word in relation to other words in the dictionary
+	D. the textual documentation in a text
+
+309:	In a dictionary entry, the abbreviation vt means ______________
+	A. verified text
+	B. verb transitive
+	C. verb transition
+	D. verbal text.
+
+310:	One of the following words is rightly spelt. Which one?
+	A. writting
+	B. auxiliary
+	C. questionaire
+	D. intresting
+
+311:	The following words are arranged alphabetically except _____________
+	A. grab
+	B. grate
+	C. gram
+	D. grant
+
+312:	When the drug baron was convicted, his properties were confiscated by government estate agents. Identify the sentence that is appropriate for the italicized word.
+	A. 'Property' and not 'properties' should have been used here.
+	B. 'Properties' is appropriately used in this context because it includes a piece of land and building.
+	C. 'Properties' here refers to the quality and power that belong to the drug.
+	D. 'Properties' are not confiscatable.
+
+313:	The computer mouse became inoperable because of poweroutage. This means that ______
+	A. the mouse that lived in the computer died as a result of poweroutage.
+	B. mouse here refers to the wire that connects the computer to the wall socket
+	C. mouse here is wrongly spelt.
+	D. mouse here is a small object connected to a computer by a wire.
+
+314:	_____________________ skills are fundamental to study skills.
+	A. Note-making
+	B. Language skills
+	C. Summarizing
+	D. Study techniques
+315:	The most spoken world language is __________
+	A. French
+	B. English
+	C. Chinese
+	D. German
+
+316:	The following except one are the concern of a speaker and/or writer.
+	A. Do I really mean this?
+	B. Will my audience understand this?
+	C. Will I be able to spell the keyword?
+	D. Does this sound good?
+
+317:	In order to prevent the loss of intended message in communication, there has to be _________
+	A. appropriacy
+	B. affixation
+	C. transition
+	D. connection
+
+318:	The distinctive manner of expression associated with a speaker or writer is his/her __________
+	A. comportment
+	B. wit
+	C. prowess
+	D. style
+
+319:	Every good word choice requires _______________
+	A. adjustment
+	B. calculation
+	C. discretion
+	D. meaning
+
+320:	The lion escaped from the zoo and the little girl ____________
+	A. talked
+	B. hollered
+	C. waited
+	D. shrieked
+
+321:	While Julie’s nature was not _________ she decided to defy her own parents for their own good.
+	A. obedient
+	B. helpful
+	C. insubordinate
+	D. vain
+
+322:	Connotation can be positive or negative depending on _____________
+	A. content
+	B. context
+	C. structure
+	D. feature
+
+323:	When you get to our main entrance, ___________ to your left as you enter the parking lot.
+	A. make
+	B. turn
+	C. go
+	D. take
+
+324:	By not telling the reader right away the identity of Sarah’s mother, the author ____________ anticipation and intensity until it is revealed in the climax.
+	A. shows
+	B. displays
+	C. keeps
+	D. builds
+
+325:	____________ and _________ are two basic purposes of communication.
+	A. Toinform—maintainsolidarity
+	B. Torepeat—consolidate
+	C. Toengage—entertain
+	D. Toelaborateelucidate
+
+326:	In order to convince your audience, words that offend their sensibilities should be _________________
+	A. juxtaposed
+	B. collocated
+	C. extrapolated
+	D. avoided
+
+327:	Study methods consist of the following except ______________
+	A. timetable
+	B. balanced study
+	C. class attendance
+	D. reading with ease
+
+328:	One of the following is not a form of note-taking:
+	A. Outlining
+	B. Mapping
+	C. Diagram
+	D. Cobellmethod
+
+329:	One strategy for successful word choice and usage is ____________
+	A. the use of verbs
+	B. the use of symbols
+	C. the use of nominals
+	D. the use of simple words
+
+330:	A _________ is a word that has nearly the same meaning as another word in the same language.
+	A. synonym
+	B. linking word
+	C. diction
+	D. homograph
+
+331:	Which of these is a productive language skill?
+	A. Looking
+	B. Listening
+	C. Writing
+	D. Reading
+
+332:	Reading that transcends the literal and inferential levels is referred to as __________
+	A. faster reading
+	B. projective reading
+	C. SQ3R
+	D. skimming
+
+333:	The term ‘study’ involves all but one of the following:
+	A. Reading
+	B. Investigating
+	C. Retaining
+	D. Memorizing
+
+334:	In American English, the __________ is often stressed on the first syllable.
+	A. adjective
+	B. noun
+	C. verb
+	D. adverb
+
+335:	The British and the American English do not have many differences in ___________
+	A. grammar
+	B. lexis
+	C. orthography
+	D. stress
+
+336:	Words that obscure, conceal or hide meaning are ________
+	A. specific
+	B. vague
+	C. elaborate
+	D. simple
+
+337:	When an expression has more than one meaning, such that it is unclear which message is intended, it is _______________
+	A. officious
+	B. audacious
+	C. Ambiguous
+	D. efficacious
+
+338:	Functional words express ______________ between words.
+	A. attributes
+	B. symmetry
+	C. abstraction
+	D. relationship
+
+339:	The summary of ‘If we keep our fences, we shall stay on good terms with our neighbours’ is _________
+	A. raised up fences maintain good neighbours
+	B. high fences lead to good relationship with neighbours
+	C. when we keep our fences, we have good neighbours
+	D. good fences make good neighbours
+
+340:	English verbs can be expressed in _______ different voices.
+	A. five
+	B. two
+	C. ten
+	D. four
+
+341:	Choose the most appropriate expression.
+	A. Your audience will not appreciate details that lack relevance.
+	B. Your audience won’t appreciate details that exclude relevant details.
+	C. Your audience will appreciate relevant details.
+	D. Your audience shall not appreciate details that lack relevance.
+
+342:	Which of the following sentences shows a habitual action?
+	A. The boy is killing the snake.
+	B. The boy kills the snake.
+	C. The boy is going to kill the snake.
+	D. The boy killed the snake.
+
+343:	When the subject of a sentence performs the action of a verb, that sentence is said to be in the ________________ voice.
+	A. active
+	B. elusive
+	C. passive
+	D. performative
+
+344:	The expression ‘A presentation was made to the student’ is an example of __________ voice.
+	A. passive
+	B. submissive
+	C. selective
+	D. eruptive
+
+345:	Words that link sentences, phrases, clauses, or words are called _________
+	A. summatives
+	B. codification
+	C. affixation
+	D. connectives
+
+346:	A word’s direct, precise and dictionary meaning is its ______________ 
+	A. denotation
+	B. concatenation
+	C. affixation
+	D. connotation
+
+347:	The word ‘sheep’ or ‘lamb’ in a religious context connotes ____________
+	A. a lost soul
+	B. innocence
+	C. a humble heart
+	D. meekness
+
+348:	A word which is similar and identical with another word in pronunciation and spelling only is known as ____________.
+	A. paronym
+	B. homograph
+	C. homonym
+	D. antonym
+
+349:	Learn the poem by heart, you should _________ it at the meeting today.
+	A. recant
+	B. retell
+	C. present
+	D. recite
+
+350:	A document allowing permission to a person to travel abroad is ___________
+	A. official document
+	B. visa
+	C. patent
+	D. passport
+
+351:	A group of letters at the beginning of a word which changes the word’s meaning is _____________.
+	A. homophone
+	B. prefix
+	C. suffix
+	D. affix
+
+352:	Expressions like 'know by heart', 'grasp the nettle', 'kick the bucket', the meaning of which can’tbeguessedfrom themeaningsofthecomponentwordsarecalled
+A.idioms
+B.lexicon
+C.wordclasses
+D.categories
+353.IncertainsituationswhereBritishEnglishusesthepresentperfectformoftheverb,AmericanEnglishusesthe_________
+A.progressiveaspect
+B.pastprogressiveaspect
+C.presentsimple
+D.pastsimple
+354.Theterm________helpsustorecognizeandclassifythewaysinwhichlanguagediffersasitsusevaries.
+A.dialect
+B.register
+C.language
+D.stress
+355._________isusedtoexplainwhatpeopledowithlanguageinvarioushumanactivities.
+A.Dialect
+B.Register
+C.Language
+D.Stress
+356.Itisbasedonallofthefollowingexcept_______thatwehavespecificwords thatare often exclusively used indifferentfieldsofhumanendeavours.
+A.fieldofdiscourse
+B.subjectmatter
+C.theactivitybeingdiscussed
+D.activityindifferences
+357.The principle which __________presupposesisthatthetypeoflanguageneededandusedinaparticularsubjectmatterwillberelativelyconstant.
+Afieldofdiscourse
+B.mediumofdiscourse
+C.modeofdiscourse
+D.essenceofdiscourse
+358.Whichofthefollowingstatementsiswrong?A.EnglishistheonlymediumofliterarycreationinNigeria.B.EnglishisaunifyingforceinNigeria.
+C.Englishisthekeytoadvancementinallspheresoflife.D.EnglishisNigeria’slingua-franca.
+359.AtypicalexampleofaNigerianmultilingualcommunityis__________A.Enugu
+B.Aba
+C.Nsukka
+D.Jos
+360.Nigeriaisboth_____________
+A.multilingualandmonolingual
+B.multilingualandbilingual
+C.bilingualandmonolingual
+D.multilingualonly
+361.EnglishlanguagehasbeenassociatedwithNigeriaforover_____
+centuries.
+A.three
+B.two
+C.four
+D.five
+362.All___________countriesuseEnglishasasecondlanguage.A.bilingual
+B.Commonwealth
+C.multilingual
+D.regional
+363.Anoutlineofacoursebasicallyinformsthestudentof________________A.therecommendedtextbooks
+B.theperiodallottedforthecourse
+C.whatisrelevanttothecourse
+D.thelecturerforthecourse
+364.Apartfromremindingthestudentofwhathasbeentaught,note-takingalsohelpsto
+A.makethestudentscatchupwithabsenteeisminclassBguidefurtherresearch
+C.assessthelecturer’scompetence
+D.useabbreviations.
+365.___________isanexampleofabbreviation.A.NECO
+B.WAEC
+C.KANT
+D.DEPT
+366.Takinggoodnotesentailsallbutoneofthefollowing:A.preparedness
+B.separatingmainfromsupportingideas
+C.useoftitlesandsub-titles
+D.repetitionforemphasis
+367.Note-takingcombinesthefollowingimportantskillsexceptA.listeningandunderstanding
+B.abilitytodetectmajorpoints
+C.writingdownmainideasinshortforms
+D.useofmnemonicsandthinkingofpastevents368.Areadingdisabilityoftencharacterizedbydifficultiesindecoding,spellingandaccuratewordrecognitioniscalled_________________A.amnesia
+B.dyglosia
+Cdyslexia
+D.studyphobia
+369.Differencesin speech sounds,lexicalitemsorexpressionsandsentencestructuresareobservabledomainsof_______A.linguisticvariations
+B.stylisticvariations
+Clanguagevariations
+D.alloftheabove
+370.Whichofthefollowinglanguageusagesignalsaveryformalsituation?A.Goodmorning,Sir,
+B.‘Hel1o,Sir.
+C.Goodmorning,Joe
+D.Hello,Mr.Johnson
+371.A languageuser’sabilitytoknow the“what”“whom”,“where”and“when”ofalanguageisindicativeofhisknowledgeofthe_______ofthelanguage;
+A.Languagestyles
+B.semanticstyles
+C.idiolecticstyles
+D.grammaticalusages
+372.Acontextuallyorsociallydefinedstyleoflanguageisregardedas________
+A.stylistics
+B.situation
+C.socialclass
+D.Register
+373.“Thelinguisticreflectionofauser’suseoflanguageinsituation”is___________definitionofregister.
+A.Finch’s
+BGregory’s
+C.Yule’s
+D.Crystal’s
+374.Whichofthefollowingscholarsreferredtolanguageas“situationdialect”?
+A.Finch
+B.Fromkin,etal
+C.Halliday
+D.Noneoftheabove
+375.Audiovisualmaterials are also sourcesofdocumentation.Thisstatementis
+Acomp1ete1ytrue
+B.partiallytrue
+C.completelyFalse
+D.partiallyfalse
+376.Whichofthefollowinglistofitemsisnotanaudiovisualmaterial?A.Filmstrips
+B.TelevisionBroadcast
+C.MusicRecordings
+D.Bookjournal
+377.Whichofthefollowinglistofitemsisnotanelectronicmediasourceofdocumentation?
+A.On-linesources
+B.E-mail
+C.E-journal
+D.Researchpapers
+378._________and________stylesarethetwobasicformsofcitationstyles.A.MLAandAPA
+B.ClassicandTriple
+C.HarvardandClassic
+D.APAandHarvard
+379.Theearlieststylesandrootofotherdocumentationstylesinusetodayare______andstyles.
+A.MLAandAPA
+B.HarvardandClassic
+C.ClassicandTriple
+D.APAandHarvard
+380.Theearlieststyleofdocumentationusedfortheindicationofsourcesofquotationandinformationinaresearchworkiscalledthe__________style.
+A.MLA
+B.APA
+C.Classic
+D.AMA
+381.Humanbeingscommunicatethrough_________Ahandclapping
+B.sneezing
+C.meaningfulsoundsandgraphicsymbols
+D.crying
+382.Toknowhowlanguageworks,onemuststudy________A.sounds
+B.gestures
+C.cues
+D.graphics
+383.Thedescriptionofspeechsoundsintermsofbodilymovementiscalled____
+A.system
+B.vocalcavity
+C.introspection
+D.articulation
+384.Theproduction,transmissionandreceptionofspeechthroughthephysiologicalmechanism ofthelungs,tongue,nose,etc.isthehallmarkof_____
+A.linguistics
+B.phonics
+C.phonetics
+D.phonemics
+385.Some examples of prosodic featuresinhumanspeechare______________
+A.stress,pitchandintonation
+B.lexeme,hyponymsandunit
+C.axiom,homophoneandphonemics
+D.syllable,gesticulationandsynonym
+386.Inspeechproduction,acousticfeaturesreferto__________A.theskilfulmovementofthespeechorgansB.thestructuralfeaturesofsoundwhichdeterminehowwellpeoplehearthings
+C.apieceinwhichthefirstletterofeachlinespellsawordD.anelectricsoundamplifier
+387._________examinesthephonemiccontrastsofthephonemesofalanguage.
+A.Phono-syntactic
+B.Phonemics
+C.Phonetics
+D.Phonology
+388.ThewordEnglishisanamebothforalanguageandforpeoplewhocomefrom
+A.Canada
+B.England
+C.NewZealand
+D.Australia
+389.Whennotesbecometoolong,oneshouldcheckwhetheronehas_______
+A.understoodthePassage
+B.copiedverbatim
+C.summarizedthepassage
+D.omittedthemajorideas.
+390.Avoiding thoughtless repetition ofthewriter’sideasisagoodapproachto__
+A.aidinglongnotes
+B.avoidinglongnotes
+C.includingalldetails
+D.assessingauthor’sintention
+391.Onemaychoosetokeepone’snotesinoneofthefollowing:boundnotebook
+B.flashcards
+C.textbooks
+D.charts.
+392.Beforemaking noteson separatenotepads,itisimportantto_________
+Aquestiontheauthor’sintention
+B.rehearseyouropinionaboutthewriter
+C.skimthebookusingtableofcontents
+D.deletethebibliographicalinformation
+393.Thesymbol“ ”means______________A.correctanswer
+B.wronganswer
+Cmajoridea
+D.minoridea
+394.Inordertoreceive,processandrecordinformationduringlectures,oneshouldbe__________
+A.readytocopyfromthechalkboard
+B.preparedtowriteveryfast
+C.avoidattentivelistening
+Dpreparedbothmentallyandphysically
+395.____isaprocessthatinvolveswritingorrecordingwhatyouhearorreadinadescriptiveway.
+A.Writing
+BRecording
+C.Note-taking
+D.Encoding
+396.Note-taking is an advanced processthatinvolvesreviewing,synthesizing,__________and_______
+A.collectingidea/recordinginformation
+B.producingandcorrectinginformation
+C.editingandauditing
+D.givingandreceivinginformation
+397.Thethreestagestonote-takingare__________,_______and_________Areading,writingandrevising
+B.revising,reviewingandrecording
+C.before,duringandafter
+D.editing,recordingandwriting
+398.Atthefirststageofnote-taking,itisimportantto______________A:scanforkeypoints
+B.readinmoredetails
+C.reviewyourdetails
+D.thinkaboutthepurposeforreading
+399.Atthesecondstageofnote-taking,_____________shouldbedone.A.askyourselfwhatyouneedtoknow
+Bskimforthegist
+C.organizethematerial
+D.reviewyournotes
+400.Atthethirdstageofnote-taking,itisnecessarytodooneofthefollowing:
+A.reviewyournotes
+B.readinmoredetails
+C.writekeywordnotes
+D.collectinformation.
+401.Agoodnoteshouldcontaintwoofthefollowing:Aguideanddate
+B.sourceandheadings
+C.mnemonicandfullstory
+D.wordsandphrases.
+402.Inordertoavoidplagiarismduringnote-taking,oneshould__________A.attendclassesregularly
+B.capturekeytopics
+C.usemindmap
+D.recordcompletebiographicaldetails
+403.Duringnote-taking,itisimportanttoleavegoodmarginsinorderto________A.addadditionalnotes,thoughtsorquestionsB.useandesteeminformation
+C.distinguishbetweenpersonalandgroupideasD.usemnemonics
+404.TheEnglishlanguageinitsversatilityofuseisonlysecondtothe_______
+AChinese
+B.Igbolanguage
+C.French
+D.Japanese
+405.ThefollowingfactorscomeintoplayindeterminingthevariousvarietiesofEnglishexceptone,choosetheoddone.A.geographicallocation
+B.socialstatus
+C.economicstatus
+D.mediumofusage
+406._______________dispersionistheclassicbasisforlanguagevariation.
+A.Geographical
+B.Linguistic
+C.Political
+D.Intelligence
+407.VarietyofalanguageaccordingtouserisalsoknownasA.regional
+B.diplomatic
+C.personality
+D.Personal
+408.Theinhaledairbeforetheproductionofspeechiscalled________airstream.
+A.egressive
+B.regressive
+C.ingressive
+D.inductive
+409.________inspeechproductionissometimescalledthevoicebox.A.Larynx
+B.Vocalcords
+C.Uvula
+D.Velum
+410.Thespacebetweenthevocalcordsiscalledthe_____________A.glottalspace
+B.glottis
+C.glottalcatch
+D.larynx
+411.IntheproductionofvoicelesssoundsliketheEnglish/f/,theglottisisfillyopen.Thisstatementis
+A.false
+B.partlyfalse
+C.true
+D.partlytrue
+412.__________sounddescribesaspeechsoundthatispronouncedwithbreathescapingmainlythroughthenoseratherthanthemouth.A.Oral
+B.Nasal
+C.Buccal
+D.Vocal
+413.Theinitialconsonantsoundin‘gnash’is___________A./g/
+B./p/
+C./n/
+D./t/
+414.Thediphthong/ei/isfoundin
+A.gate
+B.here
+C.hair
+D.sky
+415.Thephonemes/_______/arenasals.
+A./m,d,n/
+B./b,d,g/
+C/f,V,s/
+D./m,n, /
+416.Inspeechactivity,ameasureofintensityonasyllableorawordiscalled___
+A.syllabic
+B.prosodic
+C.rhythm
+Dstress
+417.Whichofthesestudymethodsimprovesthelearner’sunderstandingandexposeshimtoseveralotherideasonagivensubject?A.Furtherresearch
+B.Note-making
+C.Teamreading
+D.Outlining
+418.Skillsforreadingdonotincludethefollowing:A.Choosingappropriatereadingmaterials
+B.Conjecturallevelofreading
+CFasterreading
+D.Purposefulreadingskills
+419.Abalancedstudyentailsthefollowing:A.ApportioningequalhourstoeachsubjectB.takingacomfortablepositionwhilestudyingCpendingadequatetimeoneachcourseaswellasotheraspectsoflifeD.Combiningindividualwithgroupstudies
+420.Mindmapsarerepresentationsaimedat____________A.recognizingabbreviations
+B.topographicaldesigns
+Crecallingideas
+D.architecturaldesigns
+421.UNESCOisanexampleofan_________A.abbreviation
+B.acronym
+C.acrostics
+D.antonym
+422.Note-makingisusuallydone____________A.duringclasses
+B.duringprivatestudy
+C.duringpubliclectures
+D.alloftheabove
+423.Attentiveness,evaluation,assimilation,andsummationarekeywordsfoundin____________oflistening.
+A.transactionallistening
+B.aestheticlisteningC.criticallistening
+D.pleasurelistening
+424.AnindicationthatactivelisteningistakingplaceistheabsenceofA.listeners
+B.noise
+C.speakers
+D.publicaddresssystems
+425.Restivenessinalisteningsituationisacueforthespeakerto___________
+A.changeactivity
+B.ignorethelisteners
+C.leavethehall
+D.shoutdowntheaudience
+426.Agoodqualityofthespeakerwhichhelpsinsustainingattentionoflistenersis__________
+A.nagging
+B.dynamicmethodology
+C.haranguing
+D.bickering
+427.Thelistener’sintellectualstateisaffectedby_________and________A.sizeandcolour
+B.maturityandreadiness
+C.egoandsuper-ego
+D.diligenceandfortitude
+428.Dialectisavarietyofalanguagedeterminedby_____________A.thespeaker
+B.religion
+C.region
+D.community
+429.Thestudyofdialectsisreferredtobytheterm_______________A.dialectical
+B.dialectology
+C.dialectological
+D.diction
+430.Thedialectofeverylanguageisdifferentiatedfromothersinthelanguagebythefollowinglinguisticfeaturesexcept____________________A.pronunciation
+B.orthography
+C.grammar
+Dorigin
+431.British-basedform ofEnglishisthevarietyofEnglishusedinmostofthe________countries.
+A.Francophone
+B.Commonwealth
+C.African
+D.EastAsian
+432.TorepresenteachphonemeofanEnglishwordwithitsone-to-onecorrespondingphoneticsymbolisto___________A.transcribe
+B.complement
+C.correspond
+D.aspirate
+433./hed/istoheadwhat/ /istocoup.A./cup/
+B./ku:/
+C./k :p/
+D./cu:/
+434.ThepurevowelsofEnglishare______innumber.A.8
+B.10
+C.l2
+D.6
+435.Thelabio-dentalsounds/f/and/v/aresocalledbecause______A.theupperteethpressagainstthelowerlipintheirarticulationB.thebladeofthetonguetouchestheupperteethintheirarticulationC.thealveolarridgeliesbehindtheupperteethintheirarticulationD.theyinvolvecontactbetweenthebodyofthetongueandthehardpalate
+436._______andaredentalsounds.
+A./f/and/v/
+B./k/and/g/
+C./s/and/z/
+D./p/and/b/
+437.Thepalatalsoundsymbolin‘yes’is__________A./j/
+B./e/
+c./s/
+D./y/
+438.Thediphthong/ai/canbefoundin___________setofwords.A.late,bite,tour
+B.bite,sky,cry
+C.air,cry,sure
+D.cry,cow,toy
+439.‘While/i:/is_________,/i/is_________
+A.high,low
+Bround,flat
+C.long,short
+D.closed,open
+440.TheEnglishlanguagehas__________phonemes.A.26
+B.30
+C.52
+D.44
+441.Theword‘hat’has__________distinctsounds.A.3
+B.2
+C.4
+D.l
+442._____and—areexamplesofvoicelessconsonants.A./b/and/d/
+B./p/and/k/
+C./l/and/r/
+D./m/and/n/
+443.Whenasoundisproducedusingthevocalcords,itissaidtobe_______
+A.vocal
+B.vocoid
+C.voiced
+D.voice-over
+444.Apairofwordsthatarethesameexceptforonesoundasin‘bit’and‘pit’arecalled_____
+A.Minimalpair
+B.similarpair
+C.commonpair
+D.synonymouspair
+445.Groups and/orinstitutions thatuseBritishEnglishincludethefollowingexcept_____________
+A.theEuropeanUnion
+B.theUnitedNations
+C.theWorldBank
+D.NATO
+446.Languagevarietypromptedbymediumofexpressionrecognizeswhetherthelanguageis________or_______
+Aspoken/written
+B.appropriate/inappropriate
+C.colloquial/informal
+D.standard/formal
+447.Allofthefollowingareparalinguisticfeaturesexcept_____________A.gestures
+B.bodymovements
+C.falsestarts
+D.liptwister
+448.Therelationshipbetweenlanguageandthepurposeforwhichaparticularpieceofwritingisdesignedistermed___________A.diction
+B.context
+C.style
+D.rapport
+449.RegionsandcountriesthattendtouseAmericanEnglishinteachingandpublishingincludeallofthesebut______________A.Japan
+B.SouthKorea
+CTaiwan
+D.SouthAfrica
+450.Whichofthefollowingisnotamainfactorofvariationwithinalanguage?
+A.Differencesinpronunciation
+B.Differencesingrammar
+C.Differencesinvocabulary.
+D.Differencesinattitude
+451.Languagevariationsalongthelinesofgeographicalareascanbestberegardedas___________
+A.socialdialects
+B.regionaldialects
+C.linguisticdialects
+D.situationaldialects
+452.Artsandstrategiesconsciouslylearntthroughstudyingtoachieveaplannedresultcanbebestreferredtoas__________________A.studymethods
+B.languageskills
+C.studytechniques
+D.studyskills
+453.Tofollowthethoughtpatternsofaspeaker,thelistenermustoperateonthe_
+A.Inferentiallevel
+B.conjecturallevel
+C.factuallevel
+D.literary
+454.Unlikethereadingprocess,whereinformationisstoredinbooks,listeningisbasedon________
+A.differentcontexts
+B.auditoryorgans
+C.audio-visualmaterials
+D.classroomenvironment
+455.AlanguagelearnerandusershouldstriveforA.goal
+B.clarity
+C.time
+D.production
+456.Foreverywordusedinspeechandwritingtocount,ithastobeA.verbose,abstractandgoodfortheaudienceB.polysemous,vagueandaptfortheaudienceC.passive,elusiveandintherightcontext
+D.intherightcontextandfortherightaudience
+457.__________isthepurposefulselectionanduseofeffectivewordsandphrasestoconveymeaninginspeechandwriting.A.Usage
+BWordchoice
+C.Context
+D.Nominalization
+458.Thevariationoflanguageaccordingtoclass,educationandgenderisavariationalongthelinesof____________
+A.register
+B.situation
+C.languagedifference
+D.socialclass
+459.IndividualdialectscanotherwisebecalledA.sociolects
+B.polyglots
+C.idiolects
+D.register
+460.Thespeechhabitsofasinglepersonwhichvariesaccordingtothesituationheisiniscalled_______
+A.idiolect
+B.register
+C.sociolect
+D.polyglot
+461.Whichofthefollowingisnotapartofidiolectalvariation?A.Voicequalityphysicalstate
+CSituationalrole
+D.mentalstate
+462.Thesourcesofmaterialreferredtoinstudents’termpapersareindicatedbythe______________
+A.verifications
+B.manualstyles
+C.documentations
+D.researchpapers
+463.Differencesin__________arefarmorenumerousthanthedifferencesinanyotherlinguisticfeature.
+A.grammar
+B.lexis
+C.orthography
+D.stress
+464.TheacronymRANrefersto___________.A.ReadingAccuracyNomenclature
+B.RapidAutomatizedNaming
+C.RandomAccuracyNormalcy
+D.ReadingAdvancementNaming
+465.Theproblem associatedwithcomprehensiondeficitisthatchildrenwithsocial-linguisticdisabilitieshardlyadoptabstractreasoningandlogical
+thinking.
+A.Nottrue
+B.True
+C.Notsure
+D.Probably
+466.To show affiliations,reading isusedtobuildanddemonstratelanguagecomprehensionandsemanticacquisition.ANotcertain
+B.Probably
+C.True
+D.Nottrue
+467.Ifa studenthas a prominentandspecificweaknessineitherphonologicalorrapidprintprocessing,heissaidtohaveasingledeficitinwordrecognition.
+A.True
+B.Probably
+C.Alloftheabove
+D.Nottrue
+468.Relatedandcoexistingproblemsinstudentswithreadingdisabilitiesofteninclude
+A.anxiety
+B.insincerity
+C.curiosity
+D.plausibility
+469.Itisjustifiablethataboutthirtypercentofallstudentswithdyslexiaalsohaveattentiondeficithyperactivitydisorder.A.Nottrue
+B.True
+C.Probably
+D.Notalways
+470.Toreadin-betweenthelinesisto__________A.discernfactsstated
+B.discernfactsnotstated
+C.correcterrors
+D.readseveraltimes
+471.Themainobjectiveforreadingis______________A.tolearnnewwords
+Bwritewell
+(Ctocomprehend
+D.passexams
+472.Theunderlyingmeaningofawordisthatword’s____________A.connotation
+B.denotation
+C.implication
+D.synonym
+473.A writer’sattitudetowardshissubjectmatterisknownthroughhis_________
+A.diction
+B.conclusion
+C.spelling
+D.volume
+474.Thetitleofapassageisathematicepitome.Thismeansthatitis_______ofthetheme.
+A.summary
+B.reflection
+C.thesameas
+D.nothelpfulindetermination.
+475.Anattempttolearn,devoidofunderstandingistermed______A.cramming
+B.memory
+C.memorization
+D.scanning
+476.ThetypeofpronunciationusedbytheeducatedEnglishmanwhoseaccentisnotinfluenced byanyregionalvarietyistechnicallycalled________________
+A.Modifiedpronunciation(MP)
+B.ReceivedPronunciation(RP)
+C.RevisedPronunciation(RP)
+D.Acceptedpronunciation(AP)
+477.Onemustbeabletoaskthefollowingquestions,except_________so
+astohaveaclearperspectiveinspeechand/orwriting.A.whatismyage?
+B.whatismypurpose?
+C:whatismysubjectmatter?
+D.whoismyaudience?
+478.Thefocusofaspeechorwritingisits___________A.caption
+B.introduction
+C.subjectmatter
+D.pattern
+479.The technicalterms applicable toaparticulardisciplineisits___________
+A.words
+B.register
+C.structure
+D.constituent
+480.ThemostimportantgoalofaspeakerorwriteristoA.showerudition
+B.communicateclearlyandeffectively
+Cteachnewwords
+D.showsensedistinction
+481.Allbutoneisanexampleofvaguewords.A.is
+B.maybe
+Cperhaps
+D.seems
+482.Thesubsidiarypagesarefound_____________A.atthebeginningofaresearchpaper
+B.inthemiddleofaresearchwork
+C.attheendoftheresearch
+D.noneoftheabove
+483.Theacknowledgementofsourcesconsultedonthecourseofwritingaworkistermed____________
+A.quotation
+B.documentation
+C.Notes
+D.alloftheabove
+484.Thebestwaytoascertaintheusefulnessofabooktoaresearchtopicisthrough_____________
+Askimming
+B.Scanning
+C.thoroughreading
+D.alloftheabove
+485.Aresearchpapercannotbecalled_______________A.aninvestigativepaper
+B.areadingreport
+C.adocumentedpaper
+D.acriticalpaper
+486.Whichofthefollowingdoesnothinderaresearcher’schoiceoftopic?A.Interest
+B.Availabilityofmaterials
+C.Timelimit
+D.Noneoftheabove
+487.Acknowledgement,tableofcontentsanddedicationarefoundinthepartofaresearchpaper.
+A.main
+B.subsidiary
+C.preliminarily
+D.noneoftheabove
+488.Whenwelistentodeterminetheauthenticityofwhatisbeingsaid,weengagein
+A.creativelistening
+B.criticallistening
+C.explorativelistening
+D.appreciativelistening
+489.Astudentwhowondersoffmentallywhilethelectureisgoingonmaybesufferingfrom
+A.emotionalproblem
+B.attitudinalproblem
+C.absentmindedness
+D.alloftheabove
+490.Thestudyskillsthatengagethereader’ssenseorgansandfurtherclarifyalreadyacquiredinformationare______________and______________A.clippingandclapping
+B.tappingandtelling
+C.readingandquestions
+D.Coinageandblending
+491.From thelistbelow,selecttheappropriatehomophoneforeachofquestionsAtoE:blurb,plumb,crew,sight,blew,kike,news,knew,tell,tale,site.
+A.tail
+B.new
+C.cite
+D.blue
+E.plum
+492.The study ofthe history and developmentofwordiscalled______________
+A.morphology
+B.phonology
+C.etymology
+D.genealogy
+493.Whenlitorliteraryisindicatedagainstawordinthedictionary,itmeansthatthewordismainlyusedin__________
+A.normalspeechorwriting.
+B.spokenEnglishonly.
+C.theEnglishlanguageoflittlechildren.
+D.Englishliterature
+494.Adocumentationstylethatusesthesurnameoftheauthor,theyearofpublicationandpaginationforcitationiscalled_________A.classicentry
+B.tripleentry
+C.MLAstyle
+D.reference
+495.Nwankwo(2016:12)isanexampleofthe________citationformatA.APA
+B.MLA
+C.documentation
+D.reference
+496.“ResearchandDevelopment”.NewStandardEncyclopaedia,Vol.14,2000.Thisisanexampleof_________styleofdocument.A.APA
+B.MLA
+C.CE
+D.HarvardStyle
+497.Fasterreadingisaimedat:
+A.Readingwithafocus
+B.Intensivestudy
+C.Concentration
+D.inferentialreading
+498.Allofthefollowingbutonefallwithinthemajorlanguagesthatgaveriseto
+Pidgin;choosetheaberrantone.
+A.English
+B.French
+C.Zulu
+D.Hindi
+499.Pidginservesasalinguafrancain__________A.Edo
+B.Enugu
+C.Benue
+D.Adamawa
+500.Pidginisatradelanguagein___________communities.A.Yorubacommunities
+B.Idoma
+C.Igala
+D.Edo
+501.ThevarietyofEnglishthatisalwaysaccordedsocialprestigeistheA.AmericanEnglish
+B.BritishEnglish
+C.AustraliaEnglish
+D.StandardEnglish
+502.TheaccentiswidelyspokenbyeducatedEnglishmenintheScandbyarathersmallerproportionintheNorthisthe________________A.Modifiedpronunciation(MP)
+BReceivedPronunciation(RP)
+C.RevisedPronunciation(RP)
+D.Acceptedpronunciation(AP)
+503.Itisthe__________valuesthatarecommonlygivenindictionaries.A.Modifiedpronunciation(MP)
+B.ReceivedPronunciation(RP)
+C.RevisedPronunciation(RP)
+D.Acceptedpronunciation(AP)
+504.InWestAfrica,Nigeriainclusive,______________hasbeenthetargetEnglishlanguagevarietyfortheteachingofEnglishandthemediumfortheteachingofothersubjects.
+A.AmericanEnglish
+B.BritishEnglish
+C.AustraliaEnglish
+D.StandardEnglish
+505.Essentially,humanlanguageis______________A.specific-specific
+B.speciallyspecific
+C.specie-specific
+D.specific-specie
+506.Manisbornwitha___________capacitywhichenableshimtoacquirelanguage.
+A.social
+B.specific
+C.linguistic
+D.psychological
+507.Languageisthesolepropertyofhumanbeings.Thisstatementis______
+A.partiallytrue
+B.partlyfalse
+C:completelytrue
+D.completelyfalse.
+508.Whichofthefollowingisnotacharacteristicoflanguage?A.Auditory-vocal
+B.Conventional
+C.Systematic
+D.Communication
+509.____________isafeatureoflanguagethatsignifiesthatthereisnoconnectednessbetweenformandmeaning.A.Traditional
+B.Arbitrariness
+C.Conventionality
+D.Generativeness
+510.Astudytechniquewhereaspecialsentenceiscoinedfromthefirstletterofasequencetobelearnediscalled___________A.acronym
+B.studyclues
+C.acrostics
+D.blending
+511.___________istheproblem thataffectsspeedandaccuracyofprintedwordrecognition.
+A.Orthographicprocessingdeficit
+B.Typographicaldeficit
+C.Myopicsight
+D.Poorsight
+512.Theconnectednessbetweenspeechsoundsandtheobjectstheyrefertoiscalled
+A.symbolic
+B.symbolism
+C.symbol
+D.referent
+513.Anyotherreferencetotheuseoflanguageapartfromhumanbeingscanberegardedas
+A.symbolic
+B.systematic
+C.metaphorical
+D.generative
+514. “Language is purely human andnon-instinctivemethodofcommunicating ideas,emotions bymeansofavoluntarilyproducedsymbol”isadefinitionoflanguagegivenby___________A.Sapir
+B.Crystal
+C.Chomsky
+D.Olaoye
+515.Inthecontextofalecture,whichoftheseattitudesofthespeakerinhibits
+listeningefficiency?
+A.animateddelivery.
+B.raspyvoice
+C.authoritativespeaking
+D.self-confidence
+516.Listeningisa________________
+A.physicalskill
+B.productiveskill
+C.receptiveskill
+D.noneoftheabove
+517.Whichofthesesoundsisnotonomatopoeic?A.buzzing
+B.humming
+C.clapping
+D.clanging
+518.ThemethodofbreakingspeechsoundsintomeaningfulunitsiscalledA.discrimination
+B.extrapolation
+Csegmentation
+D.referencing
+519.Whichoffollowingcuesenhanceslisteningcomprehension?A.identifyingsentencepattern
+B.identifyingmessagesplash
+C.identifyingsentenceconnectors
+D.identifyingwordsequence
+520.Whichofthesetermsdescribesmakingsenseofamessage?A.attending
+B.responding
+C.conceiving
+D.understanding
+521______________and______________arereceptiveskills?A.speakingandlistening
+B.listeningandreading
+C.writingandlistening
+D.readingandspeaking
+522.Whichofthesetwoarecharacteristicsoflistening?A.thinkingandspeaking
+B.receivingandresponding
+C.learningandattending
+D.revisingandreciting
+523.______________and_____________skillsareusedbystudentsduringlectures?
+A.Readingandwriting
+B.Writingandspeaking
+C.Listeningandwriting
+D.Listeningandspeaking
+524.SirRichardSteeledefinesreadingasa_________________A.meansofdevelopingone’sskill
+Bmeansofsolvingproblem
+C.meansofenhancinganddevelopingthehumanmindD.meansofexercisingthehumanmind
+525.Reading,asameansofcommunication,involves__________________A.perusalofawrittenwork
+B.staringatawrittenwork
+C.thinkinghystericallywhilereading
+D.regurgitatingandthinkingaloud
+526.Bloom justifiesthatareadermustpassthroughthe_______and
+______levelsforhimtobeanexcellentreader.A.referentialanddenotative
+Bliteralandinferential
+C.denotativeandliterary
+D.literaryandconnotative
+527.The factors thataffectsuccessfulreadingareclassifiedinto______broardgroups.
+A.ten
+B.six
+C.two
+D.five
+528.___________and ______articulated thelinguisticproblemthroughdiagram.
+A.ChomskyandAristotle
+B.DrydenandGoodmanBrown
+C.PlatoandSocrates
+D.MoatsandCarolTolman
+529._____________istheproblem thataffectsthearticulationofspeechsoundandequallyaffectsbothcomprehensionandrendition.A.Morphologicaldeficit
+B.Phonologicaldeficit
+C.Syntacticdeficit
+D.Semanticdeficit
+530.______________isoneofthesolutionstodyslexia.A.Writing
+B.Gesticulation
+C.Premeditation
+D.Acknowledgements
+531._____________whilefeeingsleepyortensedupdissipatesareaderandaffectsreadingspeedandoutcome.
+A.Singing
+B.Talking
+C.Reading
+D.Regurgitation
+532. A reader’s emotional state maybecausedbyhisorher_________________
+A.cowardice
+B.antecedent
+C.unwillingness
+D.pretense
+533.Agenuineremedytoreadingdisabilityisrecognizingandacceptingone’s
+emotions.
+A.Probably
+BTrue
+C.Nottrue
+D.Noneoftheabove
+534.______________inanoisyatmosphereimpedescomprehension.A.Writing
+B.Researching
+CReading
+D.Meditation
+535.___________isthepracticeofmovingforwardandbackwardduringreading.
+A.Resuscitation
+B.Regurgitation
+C.Regression
+D.Restoration
+536. Pointing to words and single wordsreadingareclassifiedinto__________
+A.progressivereading
+B.excellentreading
+C.unskillfulreading
+D.competitivereading
+537.Oralformofreadinginvolves_____________________Atripartitecommunicationmode
+B.intensiverendition
+C.intellectualexpertise
+D.accuracyinpronunciation
+538.______________and_____________arethesuitableexamplesoforalreading.
+A.bookreviewandrecitation
+B.hallucinationandhypothesis
+C.publicspeechesandnewsbroadcast
+D.meditationandretentiveness
+539.________and____________aresuitableexamplesofsilentreading.A.publicannouncementandseminar
+B.minutesofthemeetingandmemorandumCconferencepapersandvaledictoryaddressDRoadsignsandassignments
+540.To___________,“languageisasetofsentenceseachfiniteinlengthandconstructedoutofafinitesetofelements”.A.Hall
+B.Trager
+C.RichardsandSchmidt
+D.Chomsky
+541.Aresearchworkisregardedashavingoriginalitywhen________A.thesupervisorscrutinizesthework
+B.thesourcesofthematerialscanbelocatedC.theresearchercreatesanewangleofvisionfortheworkD.thedocumentationisproperlydone
+542.Thevalidityofastudent’sintellectualmaturityisprovenwhenA.hisworkhasanewangleofvision
+Bhisdocumentationisproperlydone
+C.hisworkisproperlyscrutinized.
+D.hisbibliographicalmaterialscanbelocated543. A writer’s acknowledgement of hissourcesthroughproperdocumentationisindicativeof____________and________inscholarship.A.honestyandcourtesy
+B.originalityandhonesty
+C.simplicityandcourtesy
+D.creativenessandhumility
+544.Therecordinginresearchofwordsandideasborrowedfromotherscholarsbyawritercanberegardedas___________A.MLA
+BAPA
+C.documentation
+D.research
+545.InfringementofcopyrightisasaresultoflackofA.research
+B.documentation
+C.MLAstyle
+D.properorganizationofthought
+546.Academictheftordishonestycanotherwisebecalled_________A.copyright
+B.plagiarism
+C.misbehavior
+D.laziness
+547.Inresearch,whichofthefollowingisnotamaterialfordocumentationA.directquotation
+B.opinions
+Cideasandfactsconsulted
+Dresearchablequestions
+548.Identifytheoddoptioninthefollowinglist:A.Myopia
+B.magazines
+C:headlines
+D.columnist
+549.Thesewords;libel,lien,alibi,quasi,belongtothefieldof_________A.Medicine
+B.Law
+C.Surveying
+D.Advertisement
+550.Allofthefollowingbutonefallwithinthemajorlanguagesthatgaveriseto
+Pidgin;choosetheaberrantone.
+A:English
+B.French
+C.Zulu
+DHindi
+551.Pidginservesasalinguafrancain__________A.Edo
+B.Enugu
+C.Benue
+D.Adamawa
+552.Pidginisatradelanguagein______________communities.A.Yorubacommunities
+B.Idoma
+C.Igala
+D.Edo
+553.ThevarietyofEnglishthatisalwaysaccordedsocialprestigeisthe________
+A.AmericanEnglish
+B.BritishEnglish
+C.AustraliaEnglish
+D.StandardEnglish
+554.TheaccentwidelyspokenbyeducatedEnglishmenintheSouthofEngland and by a rather smaller proportionintheNorthisthe__________________
+A.Modifiedpronunciation(MP)
+B.ReceivedPronunciation(RP)
+C.RevisedPronunciation(RP)
+D.Acceptedpronunciation(AP)
+555.Whilereadingforcomprehension,agoodscholarshoulddothefollowingexcept_______________
+A.listentomusicfromthebackground
+B.avoidanyformofdistraction
+C.haveonlyone’sbookaroundhim/her
+D.haveapeacefulspirit
+556.Itisthe__________valuesthatarecommonlygivenindictionaries.A.Modifiedpronunciation(MP)
+B.ReceivedPronunciation(RP)
+CRevisedPronunciation(RP)
+D.Acceptedpronunciation(AP)
+557.InWestAfrica,Nigeriainclusive,_______hasbeenthetargetEnglishlanguagevarietyfortheteachingofEnglishandthemediumfortheteachingofothersubjects.
+A.AmericanEnglish
+BBritishEnglish
+C.AustraliaEnglish
+D.StandardEnglish
+558.Essentially,humanlanguageis______________
+A.specific-specific
+B.speciallyspecific
+C.specie-specific
+D.specific-specie
+559.Manisbornwitha________capacitywhichenableshimtoacquirelanguage.
+A.social
+B.specific
+C.linguistic
+D.psychological
+560.Languageisthesolepropertyofhumanbeings.Thisstatementis_______
+A.partiallytrue
+B.partlyfalse
+C.completelytrue
+D.completelyfalse.
+561.Whichofthefollowingisnotacharacteristicoflanguage?A.auditory-vocal
+Bconventional
+C.systematic
+D.communication
+562.Ozobu,M.A,“JoggingforLife”Guardian.Sunday,July5,2014.Thisdocumentationformatisanexampleofstyle.A.APA
+B.MLA
+C.CSE
+D.KateTurabin
+563.Whencitationsarenumbered,thesourcesareplacedattheendofthetext;theyareregardedas________________
+A.references
+B.workscited
+C.footnotes
+D.endnotes
+564.Footnotesareplacedat
+A.theendofabook
+B.thebottomofabook
+Cthebottomofapage
+D.anyplaceinthebook
+565.The acknowledgementa writermakeswhenquotingdirectlyorparaphrasinganotherwriter’sworkiscalled____________A.bibliography
+B.biography
+C.reference
+D.workscited
+5.Referencesarelimitedtoworkscitedinthebodyofaresearchwork.Thisstatementis____________
+ACompletelytrue
+B.Partiallytrue
+C.Completelyfalse
+D.Partiallyfalse
+567.ReferencesistoAPA,what_________istoMLA.A.footnote
+Bcitation
+C.endnotes
+D.workscited
+568.Whichofthefollowingdocumentationentriesdoesnotbeginwiththesurnameinanalphabeticalorder?
+A.APA
+B.Bibliography
+C.MLA
+D.Endnotes
+569.Aworkcitedoutsidethecontentofadocumentwiththeintentionforfurtherstudiesiscalled____________
+A.workscited
+B.reference
+Cbibliography
+DFootnotes
+570.________isadocumentationstylethatmakesuseofsuperscriptswithArabicnumerals.
+A.APA
+BReferences
+C.Bibliography
+D.MLA
+571.The majordifferencebetween footnotesandreferencesisthat___________
+AthesurnamecomeslastinfootnotesandfirstinreferenceB.thefirstnamecomesfirstinreferencesandlastinfootnotesC.footnotesarearrangedalphabeticallyunlikereferencesD.Referenceshavesuperscriptsunlikefootnotes572.Paraphrasingcanalsoberegardedas___________________A.Directquotation
+Bindirectquotation
+C.minimalquotation
+D.maximalquotation
+573.In-textcitationinaresearchworkcanbedonein________ways.A.two
+Bthree
+C.four
+D.many
+574.Parentheticalcitationscanalsobecalled________citations.A.workscited
+B.references
+Cin-text
+D.bibliographical
+575.______and_____arethetwowaysofmakingin-textreferencesinthecourseofresearchwriting.
+AParaphrasingandindirectquotation
+B.Paraphrasinganddirectquotation
+C.Citationandindirectquotation
+D.Citationanddirectquotation
+576.Whichofthefollowingisnotapartofawebsitedocumentationentry?A.nameofauthors
+B.titleofpaper
+C.dateofposting
+D.glossary
+577.Intheclassicstyleofdocumentation,theabbreviation“SL”indicatesthat________
+A.theauthorisunknown
+B.theplaceofpublicationisunknown
+Cthepublisherisunknown
+D.thedateofpublicationisunknown.
+578.Oneofthesignificantattributesthatdifferentiatesmanfromtheloweranimalsisthe________
+A.possessionofbrain
+B.abilitytocommunicate
+Cabilitytomakeuseoflanguage
+D.lackofintuition
+579.Thecontextofaword/phraseisthatword’s____________A.graphicenvironment
+B.synonym
+C.antonym
+D.meaning
+580.Italicizingawordinapassagesuggeststhat,thewordis__________A.used
+B.mentioned
+Cimportant
+D.vague
+581.Akeywordinadefinitionisoften__________A.italicized
+Bunderlined
+C.capitalized
+D.alloftheabove
+582.Repetitionofaword/phraseinapassageachieves_________A.clarity
+B.conciseness
+Cemphasis
+D.meaning
+583.Thetendencyforco-occurrencewhichexistsbetweenwordsistermed________
+Acollocation
+B.conjunction
+C.subjugation
+D.deixes
+584.Theinventionofnewwordsbyusersofalanguageistermed_________A.pre-fixation
+B.coinage
+C.affixation
+D.root
+585.Afunctionalshiftinawordwhichhasnotundergoneaninflectionistermed_____
+A.conversion
+B.inflation
+C.approximation
+D.blending
+586.Phrasereading___________comprehension.A.enhances
+B.slows
+C.impedes
+D.retards
+587.Subvocalizationmakesareaderreadatthepaceof____________A.theeyes
+Bspeech
+C.writing
+D.thinking
+588.Useofabbreviationinnote-takingsaves__________time.Awriting
+F.teaching
+C.revision
+D.none
+589Note-takingisanaidto_________
+A.reading
+Brecall
+C.review
+D.survey
+590.ThehumanspeechproductionbeginsfromtheA.month
+Blungs
+C.larynx
+D.glottis
+591.Whichofthefollowingisanasalsound?A./1/
+B/n
+C/f/
+D./s/
+592.___________isafeatureoflanguagethatsignifiesthatthereisnoconnectednessbetweenformandmeaning.A.traditional
+B.arbitrariness
+C.conventionality
+D.generativeness
+593.Languageisprimarily
+A.auditory
+B.vocal
+C.written
+D.alloftheabove
+594.Amajorfeatureofanimallanguagethatdifferentiatesitfromhumanlanguageisits______________
+A.Instinctiveness
+B.instinct
+C.transmittablenature
+D.logicality
+595.Thetacitagreementbetweenspeakersofalanguagewithregardtousagecanbestberegardedas
+A.symbolism
+B.traditionality
+C.conventionality
+D.creativeness
+596.Whileusingword-attackskillinreading,oneneedstomakeuseof.A.thedictionary
+B.phoneticsymbols
+C.phonemes
+D.alphabets
+597.Fingerpointingisanimpedimentto__________A.listening
+B.hearing
+C.speaking
+D:reading
+598.Formal,casual,frozenandconsultativeareformsofA.thewrittenmode
+B.thespokenmode
+Cstylesofdiscourse
+D.thesocialclassoflanguage
+599.Comprehensiontakesplaceatlevels.
+A.three
+Bfive
+C.two
+D.four
+600.Languageisopen-ended;thismeansthatitisA.symbolic
+Bgenerative
+C.systematic
+D.traditional
+601.That“Languageisbuiltonahighlyconnectedsystemofsound,meaning,morphologyandgrammar”impliesthatlanguageisA.creative
+B.symbolic
+C.structural
+D.linguistic
+602.Theconnectednessbetweenspeechsoundsandtheobjectstheyrefertoiscalled
+A.symbolic
+B.symbolism
+C.symbol
+D.referent
+603.Anyotherreferencetotheuseoflanguageapartfromhumanbeingscanberegardedas____________
+Asymbolic
+B.systematic
+C.metaphorical
+D.generative
+604. “Language is purely human andnon-instinctivemethodofcommunicating ideas,emotions bymeansofavoluntarilyproducedsymbol”isadefinitionoflanguagegivenby__________
+A.Sapir
+B.Crystal
+C.Chornsky
+D.Olaoye
+605.To____________,“languageisasetofsentenceseachfiniteinlengthandconstructedoutofafinitesetofelements”.A.Hall
+B.Trager
+C.RichardsandSchmidt
+D.Chomsky
+606.Alanguagehasvarieties.ThisstatementisA.partiallytrue
+B.partiallyfalse
+C.completelytrue
+D.completelyfalse
+607.Allthevarietiesofalanguagearemutuallyintelligibletoallthespeakersofthatlanguage.Thisstatementis__________A.partiallytrue
+B.partiallyfalse
+Ccompletelytrue
+D.completelyfalse
+608.Thereisnodifferencebetweenthefunctionsofalanguageanditscharacteristics.Thisstatementis_________
+A.partiallytrue
+B.partiallyfalse
+Ccompletelytrue
+D.completelyfalse
+609.Theprincipalfunctionoflanguageis___________A.speech
+B.writing
+C.communication
+D.oral-auditory
+610.___________and_______arethetwomainmediumsofcommunicationinanylanguage.
+ASpeechandwriting
+B.Writingandreading
+C.Listeningandreading
+D.Listeningandwriting
+611.Theknowledgeofregistercomesthrough______A.strategiclistening
+B.indeptspeaking
+C.widereading
+D.readingandwriting
+612.Journalisticwritingsarecontrolledby_______,________and________A.Space,timeandfocus
+B.time,tenorandspace
+C.tenor,focusandtime
+D.graphicfeatures,spaceandfocus
+613.Thepeculiarmannerinwhichaspeakerorwriterpresentshisideasinspeechorwritingcanberegardedas
+A.register
+B.idiolect
+Cstyle
+D.stylistics
+614.Anorganizedorpatternedlanguagebehaviourcanberegardedas_______
+A.register
+Bidiolect
+C;style
+D.statistics
+615.Alllanguagesituationsandbehaviourarethesame.Thisstatementis.A.completelytrue
+B.partiallytrue
+Ccompletelyfalse
+D.partiallyfalse
+616.Aparticulartypeofstyleisreferredtoas.A.stylisticsvariety
+B.stylisticaldomain
+C.stylisticvariety
+D.style
+617.The“languagepeculiartovariousprofessions”isawholisticdefinitionofregister.Thisstatementis
+Acompletelytrue
+B.partiallytrue
+C.completelyfalse
+D.partiallyfalse
+618.Field,modeandtenorrefertothekeyfeaturesoftheclassificationofA.grammar
+B.register
+C.languageanalysis
+D.semanticanalysis
+619.Technicaljargonsassociatedwithaparticularfieldorprofessioncanbecalled
+A.Style
+B.tenor
+C.argots
+Dmode
+620.Themeaningofthelexicalitem“head”canbestbeinterpretedinitsA.style
+B.tenor
+C.context
+Dmode
+621.Inlinguisticregister,thesubjectmatterofanactivitycanalsobe
+referredtoasthe___________
+A.modeofdiscourse
+B.fieldofdiscourse
+C.tenorofdiscourse
+D.situationofdiscourse
+622.Thekeyfeaturethatisusedintheidentificationofaparticularfieldofdiscourseiscalled_________
+A.semanticchoices
+B.grammaticalwords
+C.lexicalitems
+D.stylisticfeatures
+623.Mind-controlisessentialduring______________Areading
+Bwriting
+C.listening
+D.thinking
+624.Readingapassagestartsfromthe____________A.title
+B.firstsentence
+C.previouspassage
+D.none.
+625.Acronymis____________
+A.abbreviations
+B.namesofimportantpeople
+C.firstlettersofimportantwords/phrases
+D.sub-heading
+626.Theprimarylanguageskillacquiredbyhumansis____________________Aspeakingskill
+B.1isteningskill
+C.readingskill
+D.writingskill
+627.Inthepolarityoflanguageskillacquisition,listeningisgroupedalongsidereadingasthe________languageskill.Areceptivelanguageskill
+B.productivelanguageskill
+C.novellanguageskill
+D.dynamiclanguageskill
+628.Asituationforlisteningisotherwiseknownasthe__________Alisteningcontext
+B.reciprocal1istening
+C.formallistening
+D.informallistening
+629.One ofthe differences between theabridgedandunabridgeddictionariesisthat______________________
+A.anabridgeddictionaryismorevoluminousthananunabridgeddictionary.B.wordsinanunabridgeddictionaryarearrangedinalphabeticalorderbut
+wordsinanabridgeddictionaryarenot.
+C.anabridgeddictionaryhasabridge-bindingbutanunabridgeddictionaryhasnot.
+Danabridgeddictionaryislessvoluminousthananunabridgedone.630.Extensive reading involves readingof_____________quantitiesofmaterial.
+A.scanty
+B.large
+C.infinitesimal
+Dplethora
+631.Extensivereadingmayequallyappearasa__________________A.checkforacademicexpertise
+B.toolforacademicjustification
+C.skillfulacquisition
+D.complementtoanintensivereadingprogram632.DayandBamford(1980)putforward__________characteristicsthatareindelibleinSuccessfulExtensiveReadingProgrammes.A.Thirty
+B.Ten
+C.Eleven
+D.Five
+633.Skimmingisanaspectof_____________reading.A.intellectual
+B.active
+Csilent
+D.research
+634.Scanningisaquickreadingmethodthatfocuseson__________A.detailedinformation
+B.subjectmatter
+C.issuesofconcern
+D.specificinformation
+635.Skimmingandscanningcanbemutuallyusedtogetherinthereadingofa___
+A.dictionary
+B.dissertation
+C.newspaper
+D.text
+636.TheSQ3Rformulacanbeusedin_____________and_______________A.perusingandthinking
+B.summaryandappreciation
+Cskimmingandscanning
+D.studyingandanalyzing
+637.Readingcantake__________levelsdependingonthepurposeattachedtoit.
+A.five
+Bdifferent
+C.four
+D.Numerous
+638.Areaderataliterallevelfindsmeaning_______________inthetext.A.basically
+B.instantly
+C.directly
+D.conspicuously
+639.A readeratinferentiallevelreadsinbetweenthelinestomakeinferenceswiththewordsandexpressionsinthetext.A.literary
+B.analytical
+C:denotative
+Dconnotative
+640.Inevaluativereading,areaderreads__________thelinetodevelopandincorporatehiscriticalthought.
+A.above
+B.higher
+Cbeyond
+D.inbetween
+641.Anothernameforevaluativereadingis__________A.criticalreading
+B.passionatereading
+C.intensivereading
+D.analyticalreading
+642.AccordingtoBloom’staxonomyofreadinglevels,beforeevaluativereadingmusttakeplace,theremustbe__________and____________A.adjustmentandwisdom
+B.thoughtfulnessandconsciousness
+C.comprehensionandunderstanding.
+D.passionandzeal
+643.Bloom justifiesthatareadermustpassthroughthe________and_________levelsforhimtobeanexcellentreader.A.referentialanddenotative
+B.Literalandinferential
+Cdenotativeandliterary
+D.literaryandconnotative
+644.The factors thataffectsuccessfulreadingareclassifiedinto_________broardgroups.
+A.ten
+B.six
+C.two
+D.five
+645.________and _______articulated thelinguisticproblemsthroughdiagram.
+A.ChomskyandAristotle
+B.DrydenandGoodmanBrown
+C.PlatoandSocrates
+D.MoatsandCarolTolman
+646.___________istheproblemthataffectsthearticulationofspeechsoundandequallyaffectsbothcomprehensionandrendition.A.Morphologicaldeficit
+BPhonologicaldeficit
+C.Syntacticdeficit
+D.Semanticdeficit
+647.________istheproblem thataffectsspeedandaccuracyofprintedwordrecognition.
+A.Orthographicprocessingdeficit
+B.Typographicaldeficit
+C.Myopicsight
+D.Poorsight
+648.______________isoneofthesolutionstodyslexia.A.Writing
+B.Gesticulation
+C.Premeditation
+D.Acknowledgements
+649._______________whilefeeingsleepyortensedupdissipatesareaderandaffectsreadingspeedandoutcome.
+A.Singing
+B.Talking
+C.Reading
+D.Regurgitation
+650.Areader’snegativeemotionalstatemaybecausedbyhisorher________
+A.cowardice
+Bantecedent
+C.unwillingness
+D.pretense
+651.Agenuineremedyforreadingdisabilityisrecoganisingandacceptingone’semotions.
+A.Probably
+B.True
+C.Nottrue
+D.Noneoftheabove
+652.Inanoisyatmosphereimpedescomprehension.A.Writing
+B.Researching
+C.Reading
+D.Meditation
+653.___________isthepracticeofmovingforwardandbackwardduringreading
+A.Resuscitation
+B.Regurgitation
+C.Regression
+D.Restoration
+654.Pointing to words and single wordsreadingareclassifiedinto__________
+A.progressivereading
+B.excellentreading
+C.unskillfulreading
+D.competitivereading
+655.Oralformofreadinginvolves_____________________Atripartitecommunicationmode
+B.intensiverendition
+C.intellectualexpertise
+D.accuracyinpronunciation
+656.Thereadingprocessrequires
+A.listeningandcodification
+B.communicationanddecodification
+C.continuouspracticeandrefinement
+D.elevatedinterestandrendition
+657. M. Certeau observed that readersmayproducemeaningintrospectivelyandpromote___________
+AdeepexplorationoftextsduringinterpretationB.randomandextensivereading
+C.undueinterpretationofatext
+D.intermittentreadings
+658.Inthelanguageacquisitionprocess,the_________skillranksfirstAlistening
+Bwriting
+C.reading
+DSpeaking
+659.Thereare___________languageskills.
+A.three
+B.two
+C.five
+Dfour
+660.Thescientificstudyoflanguageisknownas___________A.philosophyoflanguage
+B.linguistics
+C.lexis
+D.alloftheabove
+661.Thefeatureoflanguagewhichcapturestheabilityofitsuserstorecountwhathappenedinthepastis_________A.creativity
+B.discreetness
+C.displacement
+Dnoneoftheabove
+662.Thereceptivelanguageskillsare______________
+A.readingandwriting
+B.writingandspeaking
+C.speakingandlistening
+D.listeningandreading
+663.Accordingto_____tradition,languageoriginatedfromthegoddesssarasvati
+A.Greek
+B.Latin
+C.Hindu
+D.noneoftheabove
+664.ThestudyoflanguagecanbedoneatthelevelofA.literature
+B.ideology
+C.Phonology
+D.alloftheabove
+665.Thecombinationofwordstoform acceptablesentencesisstudiedatthe___________leveloflinguisticanalysis.
+A.Semantic
+B.syntactic
+C.phonetic
+D.phonological
+666.Thetheorythatattributedtheoriginoflanguagetotheimitationofsoundsmadebyobjectsis____________theory
+A.biblical
+B.bow-bow
+Cpooh-pooh
+D.ding-.dong
+667.AccordingtoChristianity,theoriginoflanguageistraceabletoA.thebiblicalaccountofcreation
+B.thetowerofBabel
+CthecallofAbraham
+D.thefallofman
+668.1wouldnothouseapersonwhosetemperamentisunpredictable.Choosetheappropriateexplanationofhouseinthissentence.A.houseinthesentenceisanoun.
+B.houseinthesentencecanbebothnounandverb.Chouseinthesentencecanbereplacedwithaccommodate.D.houseinthesentencereferstoabuilding.669.Thetaxidriverpickedhisfareatthewrongplaceandwaspenalizedbythepolice.Fareinthiscontextrefersto___________A.(farerefersto)apassengerthetaxidriverpickedatthewrongplace.B.(farerefersto)themoneypaidbyacustomerwhichthetaxidrivercollectedatthewrongplace.
+C.(farecanbe)anyofoptions-atoc.
+D.(fareis)anobjectusedtobeautifyacarwhichthetaxidriverpickedatawrongplace.
+670.“Iwantdessert,”thesmallboydemandedafterhehadtakenhislunch.Selectthesentencethatisappropriatefortheitalicizedword.A.“Youcan’thavedessertboy,theSaharaisfarfromus”,repliedthemother.
+B.“Youmeanyouwanttoleaveme?’askedthemother.“O.K.gotoyourfriends.”
+C“Takeicecreamfromthefreezer”,repliedthemother.D.Desserthereshouldhavebeenspeltdesert.671.Thefollowingwordsexceptonearestylisticfeaturesthatcanbefoundagainstcertainwordsinthedictionary.Whichone?A.ennui
+B.slang
+C.colloquial
+D.oldfashioned
+672. The difference between passiveandactivevocabularyisthat__________
+A.theformerreferstowordsthatonecanmakeuseofinwritingandinspeechwhilethelatterreferstowordsonecanrecognizebutdoesnotmakeuseof.
+B.thelatterreferstowordsthatonecanmakeuseofinwritingandinspeechwhiletheformerreferstowordsonecanrecognizebutdoesnotmakeuseof.
+C.thelatterisdormantbuttheformerisactive.D.passivevocabularyoriginated from FrancewhileactivevocabularyoriginatedfromEngland.
+673.Affixationismadeupof_____________
+A.prefix,infix,andsuffix.
+B.prefix,trifix,andsuffix.
+C.prefix,duofix,andsuffix.
+D.Noneofoptionsatoc.
+674.Hearingissaidtobeapassiveprocessbecause_________________A.itdemandsourattention
+B.itisacognitiveprocess
+C.itisanunconsciousprocess
+D.itrequiresinterpretation
+675.A___________comesafterthecoreorbaseword.A.prefix
+B.suffix
+C.duofix
+D.trifix
+676.AnteasaprefixtocertainbaseorcorewordsmeansAwrong
+B.against
+C.many
+Dbefore
+677.The firstvarietyofEnglish used alongtheeastofNigeriais____________
+A.informal
+B.substandard
+C.uneducated
+D.Pidgin
+678.The British formally established Nigeriaasitscolonyinthe_______century?
+A.19th
+B.15
+th
+C.16
+th
+D.17
+th
+679. The Northern and Southern protectoratesofNigeriawereamalgamatedin
+A.1915
+B.1913
+C1914
+D.1912
+680.ThefirstvarietyofEnglishusedalongthecoastofNigeriawasusedfor____
+A.evangelism
+B.colonization
+C.business
+D.communication
+681.Two countries where English is usedasamothertongueare______and____
+A.BritainandChina
+B.USAandTanzania
+C:AustraliaandBritain
+D.NigeriaandTurkey
+682.___________languageislearnedandusedforinternationaltransactionandmediacoverage.
+A.First
+B.Second
+C.National
+DForeign
+683.Thelanguageofanethnicgroupinacountryofficiallyadoptedasameansofcommunicationiscalled__________language.A.second
+B.national
+C.foreign
+D.first
+684.TwocountrieswhereEnglishisusedasaforeignlanguageareandA.GhanaandSudan
+BChinaandJapan
+C.ChinaandGhana
+DSudanandChina
+685.ThemissionariesmadeEnglishthevehicleofinstructioninalltheschoolstheyestablishedinNigeriaintheyear__________A.1882
+B.1883
+C.1896
+D1914
+686.Whichoftheselanguageskillshasthehighestusagelevel?A.reading
+B.writing
+Cspeaking
+D.Listening
+687.Whyislisteningsaidtobeanactiveprocess?A.Itisanunconsciousprocess
+B.Itisaphysicalprocess
+C.Itrequiresreceivingandconstructingmeaningfromwhatisheard.D.Itrequiressplitattention
+688.Listeningisdescribedas______whilehearingis_____A.cognitive/physiological
+B.motivational/psychological
+C.physical/motivational
+D.noneoftheabove
+689.Whichoftheseisnotapurposeforlistening?A.tojudge,analyseandevaluateaspeakerBtodetectchangeofmoodanddirectionofaspeakerC.topredictwhataspeakerwillsaynext
+D.noneoftheabove
+690.Transactionallisteningisalsocalled________________A.secondarylistening
+B.aestheticlistening
+C.informationallistening
+D.criticallistening
+691.Whattypeoflisteningdoyouengageintohelpsomeone?A.transactionallistening.
+B.empathiclistening.
+C.aestheticlistening.
+D.criticallistening
+692.ThediscrepancybetweenspellingandsoundinEnglishisanothersourceof
+problemtoL2users.Thisstatementis________A.false
+Btrue
+C.partiallytrue
+D.partiallyfalse
+693.Thestatement“Englishissaidtohaveoneofthemostdifficultspellingsystemsintheworld”is___________A.partiallytrue
+B.partiallyfalse
+C.true
+D.false
+694.The sentence “Ihave credited Englishisanexampleof_______interference.
+A.morphological
+B.syntactic
+Cgrammatical
+D.semantic
+695.The sentence “The lectureris notonseat”isanexampleof_____interference.
+A.semantic
+Bgrammatical
+C.morphological
+D.syntactic
+696.Theethnicgroupthatpronounces‘go’as‘gwo’isA.Yoruba
+B.Efik
+C.Ibibio
+DHausa
+697.Astudentthatappliesthetraditionalruleofaddingthepasttensemarker - ed - to an irregular verbencounters__________interference/problem.
+A.semantic
+B.morphological
+C.grammatical
+D.syntactic
+698.Thestatement“NEPAhastakenthelight”isa______problemA.Syntactic.
+Bsemantic
+C.morphological
+D.syntactic-sematic
+699.Thecombinationoftwocodesorlanguagestomakeastatementisreferredtoas_________
+A.nativization
+B.codemixing
+C.codeswitching
+D.conversion
+700.Whenonespeaksalocallanguage,mixingitwithEnglishexpressions,oneis_______
+A.code-mixing
+B.code-switching
+C.nativizating
+D.interfering
+701.ConsistentpowerfailurecaninhibittheeffectivelearningofEnglish.Thisis
+A.false
+B.true
+C.partiallyfalse
+D.fairlytrue
+702.Whenaspeakerchangesfrom onelanguagetoanotherinthecourseofhisnarration___________isinvolved.
+A.codemixing
+Bcode-switching
+C.conversion
+D.semanticshift
+703.Thisisoneofthereasonsforphonologicalinterferenceamongsecondlanguagelearners:_______________
+A.linguafranca
+BlackofconsistencybetweenEnglishgrammarandstructureC.thenatureofconsonantclustersinEnglishD.themultiplicityofmeaninginpolygamousterms704.Inhowmanywayscanyoupronouncethelettersoughasincough,thought,etc.
+A.five
+B.six
+C.seven
+Dfour
+705.____________istheindigenizationofEnglishinasecondlanguageenvironment.
+A.Conversion
+3Code-mixing
+C.Code-switching
+D.Nativization
+706.The ___________ ofEnglish in Nigeriainvolvesthetransferofphonological,lexical,syntactic and semanticpatternsofNigerianlanguagesintoEnglish.
+A.interference
+B.nativization
+C.problem
+D.indigenization
+707.Anothernamefornativizationis_______________A.interference
+B.indigenization
+C.linguisticinterference
+D.register
+708.Anofficiallanguagemaybethenationallanguageofacountry.Thisstatementis__________
+A.false
+Btrue
+C.partiallytrue
+D.partiallyfalse
+709.ThefullmeaningofEMTis_____________A.EnglishasaMotherTongue
+B.EnglishasaMajorTongue
+C.EnglishasaMainTongue
+D.EnglishasaMainstreamTongue
+710.Anothernameforatargetlanguageis__________Aforeignlanguage
+B.firstlanguage
+C.alternatelanguage
+D.mothertongue
+711.Humanbeingshavetwoearsbutlistento_____________thing(s)atatime.
+A.two
+B.three
+C.six
+Done
+712.Theendproductoflisteningis_______________Aaction
+B.comprehension
+C.writing
+D.motivation
+713.ListeninghasbeendescribedbymanyauthorsasanartbecauseA.itrequiresalotofpatiencetolisten
+B.whatyoulistentoaffectsyou
+C.anybodycanlistenwell
+Deverylisteningsituationdemandsaction
+714.Unlikelistening,hearingis________________________A.motivated
+B.acquired
+C.automatic
+D.voluntary
+715.Allexceptoneofthefollowingisnotacharacteristicoflistening.A.Itiscompelling
+B.ItdemandsactiveprocessingofinformationC.ItinvolvesretentionandinterpretationofinformationD.Informationlistenedtocannotbeinterpretedasmessage716.____________isadeterminantoftheamountofattentionattachedtoalisteningcontext.
+AThevalueofinformation
+B.Theageofthespeaker
+C.Theraceofthespeaker
+D.Thesizeofthespeaker
+717.Listeningtoavarietyofinformationforagivenpurposeisknownas________________typeoflistening.
+Aintensive
+B.extensive
+C.introspective
+D.bi-focal
+718.Allexceptonearethereasonswhywelisten.A.Togivedirection
+B.Torepent
+C.Tosympathize
+DNoneoftheabove
+719.Anothernameforintensivelisteningis______A.Anecdote
+B.yogalistening
+C.criticallistening
+D.Aestheticlistening
+720.Listeningtomusicisanexampleof_______________typeoflistening.A.intensivelistening
+B.adventurouslistening
+C.patheticlistening
+D.aestheticlistening
+721.Onetacticaspeakeremploystosustaintheattentionofhislistenersis
+Astimulus-variation
+B.pomposity
+C.prattling
+D.magniloquence
+722.Listeningtotheradioisatypicalexampleofa_________typeoflistening.
+A.reciprocallistening
+B.clanlistening
+C.non-reciprocallistening
+D.massivelistening
+723.Anothernameforreciprocallisteningis_______________________A.two-waychanneloflistening.
+B.onewaychanneloflistening
+C.focusedtypeoflistening
+D.selectivetypeoflistening
+724.One-waychanneloflisteningisthesameas__________A.focusedlistening
+B.elevatedlistening
+Cselectivelistening
+D.secondarylistening
+725.ThetypeoflisteningwegivetoourlecturerinalecturecontextisAcriticallistening
+B.selectivelistening
+C.non-criticallistening
+D.pleasurablelistening
+726.Informationreceivedfromalectureismademoreconcreteby_______A.sharing
+B.writing
+C.perambulating
+D.alignment
+727.The following are purposes forlisteningtoalectureexceptone________
+A.tojudge,analyseandevaluate.
+B.todeterminetheorderofarrangementofinformation.C.topredictthespeaker’snextidea.
+Dtomeasurethelistener’slisteningability
+728.Onecontextoflisteningwhereempatheticortherapeuticlisteningisrequiredisin______________
+A.bereavement
+B.awardwinningevent
+C.thanksgivingceremony
+D.birthdayparty
+729.The following exceptone is notaspeaker-relatedproblemoflistening_________
+A.detouring
+Bstammeringandstuttering
+C.inappropriatedressing
+D.lackofmasteryofsubjectmatter
+730.Environmentalproblemsthatcaninhibitattentionofthelistenerareasfollowsexcept_________________
+A.suddenchangeinthesoundlevel
+Bnoise
+C.Prejudice
+D.Poorventilation
+731.A situationwherebyalistener’spreconceivedideaofaspeakerpreventshisacceptationofinformationfromthespeakerisknownas____________
+A.acrimony
+B.hatred
+C.bias
+D.felony
+732.Thelistenerconstitutesaproblem tohimselfinlisteningwhen_________
+A.themicrophoneproducesnoisethatdrownsthespeaker’svoice.B.thelanguageofthespeakerisalientohim.C.theinformationassaultshissensibilities.D.hefailstotakecareofhisphysiologicalneedsbeforecomingtolecture733.Ingeneral,humanbeingsare_____________A.Goodcommunications
+B.Poorcommunicators
+C.Perfectcommunicators
+D.Indifferentcommunicators
+734.Whichoftheseisnotadefinitionoflanguage?A.Averbalmeansofcommunication
+B.Ameansofcommunication
+C.Avehiclethathelpsmantoconveyhisfeelings,thoughtsorideas
+D.Aculturalartifact
+735.TwocountriesinWestAfricawheretheEnglishlanguageisusedasanofficiallanguageorasecondlanguageare______A.GabonandGhana
+B.SierraLeoneandNigerRepublic
+C.CameroonandNigeria
+DNigeriaandGhana
+736.Fromtheglossaryofabookonecanfindinformationabout_________A.relatedwordsinatext
+B.strangewordsinatext
+C.synonyms
+D.polysemys
+737.Oneoftheseisnotareadingskill______________A.listening
+B.skimming
+C.scanning
+D.textattack
+738.Thebasiccomponentsofreadingarealloftheseexcept__________A.Recognition
+B.speedofreading
+C.comprehension
+Dreckoning
+739.Readingisaperceptualandcognitiveprocessbecause_________
+A.theeyeandthebrainareinvolvedwhenoneisreadingB.onlytheeyeisinvolved
+C.thebrainaloneisinvolved
+D.alloftheabove
+740.Whilereading,thepracticeofmovingones’lipiscalled__________Avocalization
+B.memorization
+C.regression
+D.noneoftheabove
+741.EvaluativelevelofreadingisalsoknownasA.literalB.inferential
+C.analytical
+D.synthetical
+742.Itisimportantthatcomprehensionshouldbehandledinsuchawaythatwhatisreadcanbe___________
+A.understood
+B.retained
+C.retrieved
+D.alloftheabove
+743.________comprehensionisabasicfoundationskillwhicheverylearnermustknow
+A.Inferential
+B.Literal
+C.Conjectural
+D.Factual
+744.New wordsthataregotfrom theinitiallettersfromwordsinanexpressionarecalled________
+A.acronyms
+B.coinages
+C.chippings
+D.alloftheabove
+745.Allthesearefactorsthatenhancereadingcomprehensionexcept_____
+A.impatience
+B.interest
+C.curiosity
+D.concentration
+746.Glancing backwardsto re-read individualwordsorphrasesandsentencesthathadbeenreadisknownas_________A.retention
+BRegression
+C.recall
+D.alloftheabove
+747.OneadvantageofnotetakingduringlecturesisA.memorization
+B.recall
+C.comprehension
+D.noneoftheabove
+748. According to Bloom, readingiscategorizedinto__________and_________
+A.acculturationandnodding
+B.thinkingloudandacquiescence
+C.regressionandpointingtowords
+D.Oralandsilentreading
+749.Munby(1979)suggestscategoriesofillustrationusedinintensivereading.
+A.Ten
+B.Twelve
+C.Six
+DFour

@@ -1,0 +1,364 @@
+1:	________ is the type of sugar found in Nucleotide.
+	(a) heptose sugar
+	(b) pentose sugar
+	(c) fructose sugar
+	(d) hexose sugar
+
+2:	The acid character of nucelic acid is as a result of _________
+	(a) acid group
+	(b) carboxylic group
+	(c) phosphate group
+	(d) none of the above
+
+3:	The following are types of RNA, except ________
+	(a) mRNA
+	(b) rRNA
+	(c) tRNA
+	(d) nRNA
+
+4:	The enzymes responsible for closing the gap at the base of the helix is 	________
+	(a) polymerase
+	(b) lipases
+	(c) heliase
+	(d) isomerase
+
+5:	The members of a pair of allele segregates clearly from each other 	during gamete formation is called ________ law.
+	(a) law of dominance
+	(b) law of independence
+	(c) law of assortment
+	(d) law of segregation and _ _ _ _ 
+
+6:	The stage where DNA is synthesized is the ______
+	(a) s-phase
+	(b) G1-phase
+	(c) G2-phase
+	(d) G1 and G2-phase
+
+7:	The following but one are the stages in mitosis
+	(a) prophase
+	(b) prephase
+	(c) metaphase
+	(d) anaphase
+	(e) telophase
+
+8:	The longest phase in mitotic division is ______
+	(a) telophase
+	(b) anaphase
+	(c) prephase
+
+9:	In mitotic division, the phase characterized specifically by 	disappereance of nuclear envelop is _______
+	(a) prophase
+	(b) metaphase
+	(c) telophase
+	(d) anaphase
+	(e) prehase
+
+10:	The chart showing all members of a family is called _____
+	(a) chart flow
+	(b) pedigree
+	(c) karyogram chart
+	(d) organogram
+
+11:	The division of the nucleus and cytoplasm occurs at _______
+	(a) prophase
+	(b) telophase
+	(c) anaphase
+	(d) metaphase
+
+12:	The phase characterized by alignment of chromosome at the equatorial 	plate in mitosis is the ________
+	(a) metaphase
+	(b) anaphase
+	(c) telophase
+	(d) prophase
+
+13:	Synapsis occurs in meiosis at _____ stage
+	(a) Deplotene
+	(b) Zygonema
+	(c) Pachynema
+	(d) Diplonema
+
+14:	The longest phase in meiosis is ______
+	(a) prophase
+	(b) anaphase
+	(c) metaphase
+	(d) Liptotene
+
+15:	Humans are not easily used for experimental purpose for the following 	except ______
+	(a) long gestation time of man
+	(b) small family size of man
+	(c) difficulty in drawing conclusion of in vivo event from in vitro 	event
+	(d) possibility of experimental (errors)
+
+16:	The following are the criteria for autosomal inheritance but one
+	(a) the trait appears in every generation without skipping
+	(b) the trait is transmitted by the affected person to half of his 	children
+	(c) the male and female are equally likely to be affected or not
+	(d) male are prone to be affected than female
+
+17:	The following are true of X-linked dominance inheritance but one
+	(a) affected male have no normal daughter and no affected son
+	(b) affected male have abnormal than affected males (there is a little 	error in this)
+
+18:	The following are true of X-linked recessive inheritance except _____
+	(a) there is direct father-to-son transmission
+	(b) the incidence of the trait is higher in male than female
+	(c) the trait is passed from affected male through all his daughter to 	half the daughter's sons
+	(d) there is no direct father-to-son transmission
+
+19:	Variability in pharmocognetics is controlled by ______
+	(a) variation
+	(b) mutation
+	(c) genetics
+	(d) drugs
+
+20:	The accumulation of Fe3+ in the blodd results in ______
+	(a) methaemoglobinaemia
+	(b) methaeglobin
+	(c) glutathione
+	(d) nonen of the above.
+
+21:	The following drugs can be used to manage pharmacognetic disorders in patients except ____
+	(a) cWorates
+	(b) Niferourazone
+	(c) aniline
+	(d) acetanilide
+
+22:	The two independent systems that affect graft survival in the body are _____ and ______
+	(a) ABO blood system and Major histocompatibility complex
+	(b) AB blood system and histocompatibility complex
+	(c) A blood system and major histocompatibility
+	(d) B blood system and ABO blood system.
+
+23:	Erythroblasis is most likely to arise in marriage involving ____ woman and ____ man
+	(a) Rh-positive and Rh-positive
+	(b) Rh-negative and Rh-positive
+	(c) Rh-negative and Rh-negative
+	(d) Rh-positive and Rh-negative
+
+24:	The firs step used to determine blood compatibility is ____
+	(a) Erythroblasts
+	(b) antigen
+	(c) erythroblastosis
+	(d) none of the above
+
+25:	Successive injection of a human serum into an animal like a rat is used to perpare _____
+	(a) antihuman globulin serum
+	(b) human globulin serum
+	(c) agglutination of red blood cell in human beings
+	(d) to prevent Rh-factor
+
+26:	The structure formed by the attachment of galctose and glucose molecules at intervals to a protein backbone is called ______
+	(a) henshaw system
+	(b) modified galactose
+	(c) an amorph
+
+27:	The appearance of phenotype understudy in equal proportion among affected pair is called _____
+	(a) discordance
+	(b) concordance
+	(c) natural gene
+	(d) ordance
+
+28:	The failure of concordance is called _____
+	(a) concordance
+	(b) disconcordance
+	(c) ordance
+	(d) polygene
+
+29:	Two kinds of mutation
+	(a) spontaneous mutation and gene mutation
+	(b) -------------------
+	(c) induced mutation and chromosomal mutation
+	(d) ribosomal and chromosomal mutation
+
+30:	Chromosomal abnormalities result from _______
+	(a) chromosomal leakage
+	(b) chromosomal inheritance
+	(c) chromosomal breakage
+	(d) chromosomal disorder
+
+31:	Which of these is double stranded?
+	(a) mRNA
+	(b) DNA
+	(c) RNA
+	(d) tRNA
+
+32:	The RNA is _____ stranded.
+	(a) single
+	(b) double
+	(c) half
+	(d) double and single
+
+33:	The sugar in RNA is called ______
+	(a) Hexosugar
+	(b) ribose sugar
+	(c) semiribose sugar
+	(d) single sugar
+
+34:	A trait expressed in both heterozygotes and homozygotes is known as _____
+	(a) recessive
+	(b) dominant
+	(c) co-dominant
+	(d) autonomous
+
+35:	______ is a term used to describe a trait carried on X-chromosome.
+	(a) sex-linked
+	(b) sex-dominant
+	(c) male sex linked
+	(d) sex-determinant
+km
+\
+
+36:	Disease condition in which the synthesis of the beta-chain of haemoglobin is depressed while the alpha-chain haemoglobin synthesis continues nomally is known as ________
+	(a) anaemia
+	(b) thalasaemia
+	(c) sickle-cell
+	(d) diabetes
+
+37:	The measurment used to plot karyotype is called _____
+	(a) karyogram
+	(b) caryogram
+	(c) skyrogram
+	(d) none of the above
+
+38:	The science of heredity is known as ______
+	(a) heredity
+	(b) gentetrics
+	(c) genetics
+	(d) law of segregation
+
+39:	Which of these has thymine?
+	(a) DNA
+	(b) RNA
+	(c) DNA and RNA
+	(d) TRANA
+
+40:	The cell responsible for immunity is known as ________
+	(a) t-cells
+	(b) lymphocytes
+	(c) plasma cells
+	(d) b-cells
+
+41:	The kinds of cellular antigens are ________
+	(a) antigen A. and antigen B
+	(b) ...no more options
+
+42:	The genes controlling quantitative traits are known as __________
+	(a) mongenes
+	(b) polygenes
+	(c) polo-mongenes
+	(d) heterogenes
+
+43:	A disorder determined solely by genetic factors where the environment has little or no effect is called ________
+	(a) factorial disorder
+	(b) multifactorial disorder
+	(c) unifactorial disorder
+	(d) poly disorder
+
+44:	A trait under the control of one or few with little or no environmental factor is called _________
+	(a) qualitative trait
+	(b) quantitative trait
+	(c) genetic trait
+	(d) phenotypic traits
+
+45:	The inheritance of disorder in question 44 above is termed _________
+	(a) multifactorial inheritance
+	(b) unifactorial inheritance
+	(c) qualitative inheritance
+	(d) quantitative inheritance
+
+46:	Which of these is not correct? _________
+	(a) quanitative trait is controlled by numerous genes
+	(b) the environment has much effect on the gene of quantitative trait
+	(c) the environment contributes more to phenotype variability and genetic factor on quantitative trait
+	(d) environment has little or no effect on the genes of quantitative trait
+
+47:	Genes on Y-chromosome are called ________
+	(a) hemizygous
+	(b) holandrigenes
+	(c) heterogametic genes
+	(d) all of the above
+
+48:	A trait whose phenotype appearance is determined by the presence or absence of one of the sex hormones is called ________
+	(a) sex influence traits
+	(b) sex linked traits
+	(c) sex limited traits
+	(d) male linked inheritance
+
+49:	Traits whose dominance are influenced by the sex of the bearer is known as _________
+	(a) sex influence trait
+	(b) limited traits
+	(c) sex linked traits
+	(d) sex stimulates traits
+
+50:	Beard development in human beigns is an example of __________
+	(a) sex limited traits
+	(b) sex influenced traits
+	(c) sex-linked traits
+	(d) sex stimulated traits
+
+51:	Individual with chromosome number 2n-1 is said to be _______
+	(a) monosomic
+	(b) monosotric
+	(c) trisomic
+	(d) polysomic
+
+52:	Substances that cause mutation are called ________
+	(a) mutants
+	(b) muters
+	(c) mutegans
+	(d) mutagens
+
+53:	Mutation that affects the body cell is called _______
+	(a) germinal mutation
+	(b) somic mutation
+	(c) somatic mutation
+	(d) body mutation
+
+54:	Breakage of chromosomes in two places so that the middle piece turns around and region changing sequence of genes is known as _______
+	(a) transversion
+	(b) duplication
+	(c) translocation
+	(d) inversion
+
+55:	Down's syndrome was discovered by _______
+	(a) John Longdon Down
+	(b) Jonhn Longdon Down
+	(c) John Laug Down
+	(d) John Longon Down
+
+56:	The mixing of sugar, base and phosphate to form nucleotide is known as _______
+	(a) combination reaction
+	(b) chemical combination
+	(c) condensation reaction
+	(d) mixing reaction
+
+57:	The interval between each cell division is called ______
+	(a) Gap
+	(b) telophase
+	(c) prophase
+	(d) interphase
+
+58:	The inheritance of two pair of contrasted character is called _______
+	(a) monohybrid inheritance
+	(b) dihybrid inheritance
+	(c) dominant inheritance
+	(d) double inheritance
+
+59:	The division of cytoplasem is called _______
+	(a) differentiation
+	(b) Karyokinensis
+	(c) cytokinensis.
+	(d) karyogram
+
+60:	The enzyme that is alternately oxidized by methaemoglobin and reduced by NADH is called _______
+	(a) reductase
+	(b) NADPH reductase
+	(c) NADP methemoglobin reductase
+	(d) all of the above
+
+61:	Genetic principles and its application to legal problem was made possible due to the discovery of _____ in high frequency among population
+	(a) ABO group genetic factor
+	(b) AB group genetic factor
+	(c) AO group genetic factor
+	(d) none of the above
+

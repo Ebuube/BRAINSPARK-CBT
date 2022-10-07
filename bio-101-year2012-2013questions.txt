@@ -1,0 +1,574 @@
+1:	How many different gametes would you expect from the parent in cross (i)?
+	(a) 8
+	(b) 16
+	(c) 4
+	(d) 64
+	(e) 27
+
+2:	How many genes do you think are segregating in cross (i) ?
+	(a) 12
+	(b) 3
+	(c) 8
+	(d) 6
+	(e) 4
+
+3:	What proportion of the offspring will phenotypically resemble the second parent in cross (i) ?
+	(a) 29/81
+	(b) 2/16
+	(c) 9/16
+	(d) 41/8
+
+4:	What proportion of the offspring will genotypically resemble either parent in the cross (i)
+	(a) 1/2
+	(b) 1/4
+	(c) 1
+	(d) 0
+	(e) 3/4
+
+5:	How many types of offspring would you expect in cross (i) ?
+	(a) 4
+	(b) 16
+	(c) 8
+	(d) 32
+	(e) 27
+
+6:	How many types of gametes would you expect from the second parent in cross (i) ?
+	(a) 3
+	(b) 2
+	(c) 8
+	(d) 4
+	(e) 6
+
+7:	How many types of gametes are obtained from the parents in cross (ii) ?
+	(a) 32
+	(b) 16
+	(c) 4
+	(d) 27
+	(e) 81
+
+8:	What proportion of the offspring will genotypically resemble the first parent in the cross (ii) ?
+	(a) 1/4
+	(b) 0.5
+	(c) 0.75
+	(d) 0
+	(e) 1
+
+9:	What proportion of the offspring will phenotypically resemble the first parent in cross (ii)
+	(a) 0.25
+	(b) 0.5
+	(c) 0
+	(d) 1
+	(e) 0.75
+
+10:	What proportion of the offspring will phenotypically resemble the first parent in cross (ii)
+	(a) 0.5
+	(b) 0.25
+	(c) 0
+	(d) 1
+	(e) 0.75
+
+11:	Ammocentensis is a test carried out on the foetus for possible abnormalities in the 
+	(a) first trimester
+	(b) second trimester
+	(c) third trimester
+	(d) all of the above
+	(e) none of the above
+
+12:	What is the number of the different orders (i.e. the coefficients) of getting three boys and three girls?
+	(a) 15
+	(b) 35
+	(c) 21
+	(d) 20
+	(e) 28
+
+13:	What is the number of different orders of getting five boys and one girl?
+	(a) 18
+	(b) 15
+	(c) 21
+	(d) 1
+	(e) 6
+
+14:	Show the binomial equation for a family of one boy and five girls
+	(a) 7p^8q
+	(b) 15pq^5
+	(c) 6p^5q
+	(d) 7pq^5
+
+15:	True breeding purple-stem tomatoes crossed with green-stem plants gave all the purple-stem. F1's were backcrossed to green-stem plants, the progeny were 482 purple-stem and 526 green-stem(bonus)
+
+16:	Calculate the x^2 in this backcross ratios
+	(a) 1.7
+	(b) 1.82
+	(c) 0.92
+	(d) 1.92
+	(e) 1.12
+
+17:	Can the deviation in the above backcross be accepted as a sampling error?
+	(a) yes
+	(b) no
+	(c) somehow
+	(d) reject null hypothesis
+	(e) accepth alternate hypothesis
+
+18:	Pallister Killian syndrome is caused by the duplication of part of __
+	(a) chromosome 11
+	(b) chromosome 14
+	(c) chromosome 15
+	(d) chromosome 12
+
+19:	Sex chromosome abnormalities include __
+	(a) klinefelter's syndrome, Cri-du-chat syndrome
+	(b) klinefelter's syndrome, Down syndrome
+	(c) tuner's syndrome, Edwards syndrome
+	(d) klinefelter's tunier's syndrome, Triple X
+	(e) all of the above
+
+20:	Patau's syndrome is associated with _____
+	(a) trisomy 18
+	(b) trisomy 15
+	(c) trisomy 13
+	(d) trisomy 17
+	(e) trisomy 20
+
+21:	Clinical cases associated with chromosomal deletions are ______
+	(a) duchenne muscular dystrophy, prader-Will syndrome, myelogenous leukemia
+	(b) charcot-marie-tooth disease, Jacobsen syndrome
+	(c) wolf-Hirschborn syndrome, Jacobsen syndrome, trisomy 16
+	(d) angelman syndrome, wolf-Hirschborn syndrome, Jacobsen syndrome
+
+22:	A polyploidy condition that arises as a result of crosses between two or more species that have different sets of chromosomes is known as ____
+	(a) alupolyploidy
+	(b) autopolyploidy
+	(c) allopolyploidy
+	(d) polyhaploid
+
+23:	A multifactorial disorder is one which is determined by _____
+	(a) a multifactorial gene
+	(b) multiple allelic mendel genes
+	(c) a combination of mutant and factorial genes
+	(d) a combination of mulitple and factorial genes
+	(e) none of the above
+
+24:	A quantitative trait is one that is ____
+	(a) displays continuous variablity
+	(b) controlled by 10-100 or more genes
+	(c) controlled by polygenes
+	(d) heavily affected by environmental factors
+	(e) all of the above
+
+25:	Which of the following is true about X-linked recessive traits?
+	(a) parents of an affected child may be consanguineous
+	(b) males and females are equally likely to be affected
+	(c) Unaffected persons do not transmit the trait
+	(d) absence of direct father-to-son transmission
+	(e) none of the above
+
+26:	"Affected fathers have no normal daughters" is a criterion for _____
+	(a) autosomal dominant traits
+	(b) X-linked recessive trait
+	(c) autosomal recessive traits
+	(d) all of the above
+
+27:	 A phenotypically normal lady whose father suffers from an X-linked recessive disease plans to marry her long standing friend. But she is visible worried of giving birth to similarly affected children as her father. What piece of advice would you give her?
+	(a) go ahead and marry
+	(b) 50% of her sons will be affected and 50% will be normal
+	(c) 50% of her daughters will be carriers while 50% will be homozygous normal
+	(d) all of the above
+	(e) none of the above
+
+28:	In a certain human population, C is an Autosomal gene and H is a sex-linked gene. Assuming that the recessive states, C and H , of these genes condition some illnesses, then answer questions 29-33
+
+29:	Construct the genotypes of the marriage between an affected man for C who is normal for H
+	(a) (A^c)(A^c)(X^H)(Y)(X)(A^c)(A^c)(X^H)(X^h)
+	(b) (A^c)(A^c)(X^H)(Y)(X)(A^C)(A^C)(X^h)(X^h)
+	(c) (A^c)(A^c)(X^H)(Y)(X)(A^c)(A^c)(X^H)(X^h)
+	(d) (A^c)(A^c)(X^h)(Y)(X)(A^c)(A^c)(X^H)(Y^h)
+
+30:	Construct the genotypes of the marriage between a carrier woman for both genes and a man normal for C but affected for H
+	(a) (A^c)(A^c)(X^H)(X^h)(Y)(X)(A^c)(A^c)(X^H)(x^h)
+	(b) (A^C)(A^C)(X^h)(X^h)(X)(A^c)(A^c)(X^H)(Y)
+	(c) (A^c)(A^c)(X^H)(X^H)(X)(A^c)(A^c)(X^H)(X^h)
+	(d) (A^c)(A^c)(X^H)(X^h)(X)(A^c)(A^c)(X^h)(Y)
+
+31:	How many gametes would you expect from the woman in question 30?
+	(a) 5
+	(b) 6
+	(c) 4
+	(d) 2
+	(e) 3
+
+32:	How many gametes would you expect from the man in question 30?
+	(a) 4
+	(b) 3
+	(c) 2
+	(d) 5
+	(e) 6
+
+33:	The number of offspring expected from the man in question 30?
+	(a) 8
+	(b) 9
+	(c) 7
+	(d) 6
+	(e) 5
+
+34:	The first and the phases of meiotic prophase 1 are _____
+	(a) zygonema and diploema
+	(b) leptonema and pachynema
+	(c) zygonema and diaknesis
+	(d) pachynema and diplonema
+
+35:	Chromosome reshuffing and recombination take place at ___ stage of meiotic prophase
+	(a) leptonema
+	(b) diplonema
+	(c) pachynema
+	(d) zygonema
+
+36:	At what stage in meiotic division do the nuclear proteins released into the cytoplasem return to the nucleus?
+	(a) metaphase
+	(b) anaphase
+	(c) prophase
+	(d) telophase
+
+37:	The cells of organisms involved in meiotic division are known as _____
+	(a) somatic cells
+	(b) optic cells
+	(c) germ cells
+	(d) histones
+
+38:	The cell experiences equilibrium of forces at ____ period of mitotic division?
+	(a) anaphase
+	(b) telophase
+	(c) metaphase
+	(d) diakinesis
+
+39:	At G2 period of cell cycle, the DNA content of the cell is said to be
+	(a) diploid
+	(b) teraploid
+	(c) uniploid
+	(d) triploid
+
+40:	The cell accumulates energy for cell division and duplicates its fundamental components in ______ period.
+	(a) interphase
+	(b) zygonema
+	(c) prophase
+	(d) anaphase
+
+41:	In human females, one of the two X-chromosomes replicates earlier than the other and this is known as ______
+	(a) intra-chromosomal asynchrony
+	(b) chromosomal asynchrony
+	(c) asynchrony within chromosomes set
+	(d) inter-chromosomal synchrony
+
+42:	In a study of ABO blood group inheritance in a certain African Populatioin, a total of 1928 persons were found to belong to blood O grooup, 988 to blood group A; 1080 to blood group b and 489 to blood group AB. Using the above data, answer questions 43-50
+
+43:	What is the calculated frequency for the O allele?
+	(a) 0.77
+	(b) 0.55
+	(c) 0.45
+	(d) 0.66
+	(e) 0.68
+
+44:	What is the calculated frequency for the A allele?
+	(a) 0.77
+	(a) 0.55
+	(c) 0.01
+	(d) 0.66
+	(e) 0.1
+
+45:	What is the calculated frequency for the B allele?
+	(a) 0.77
+	(b) 0.34
+	(c) 0.45
+	(d) 0.24
+	(e) 0.68
+
+46:	What is the calculated frequency for the AA blood genotype?
+	(a) 0.13
+	(b) 0.44
+	(c) 0.01
+	(d) 0.02
+	(e) 0.14
+
+47:	What is the calculated frequency for the BO blood genotype?
+	(a) 0.32
+	(b) 0.06
+	(c) 0.24
+	(d) 0.34
+	(e) 0.05
+
+48:	What is the calculated frequency for the AB blood genotype?
+	(a) 0.005
+	(b) 0.05
+	(c) 0.5
+	(d) 0.45
+	(e) 0.06
+
+49:	What is the calculated frequency for the A blood genotype?
+	(a) 0.14
+	(b) 0.16
+	(c) 0.32
+	(d) 0.38
+	(e) 0.46
+
+50:	What is the calculated frequency for the B blood genotype?
+	(a) 0.48
+	(b) 0.05
+	(c) 0.32
+	(d) 0.06
+	(e) 0.38
+
+51:	When genes are inserted into an individual's cells or tissues to treat a disease, the process is called ___?
+	(a) gene testing
+	(b) gene therapy
+	(c) molecular screening
+	(d) therapeutic healing
+	(e) none of the above
+
+52:	"One gene, one enzyme" hypothesis was proposed by _____
+	(a) George Wells and his companions (1941)
+	(b) Philip sharp (1977)
+	(c) Walter fiers (1972)
+
+53:	Which of the following does not play a role in sex determination in man
+	(a) the XX sex chromosome
+	(b) the bare body of the female
+	(c) the polymorphonuclear leukocyte of the female
+	(d) the autosomes
+
+54:	A holandric "trait" is one that ____
+	(a) was first discovered in Holland
+	(b) a trait locatead only on the Y chromosomes of the male
+	(c) a trait found on the holandrous cells of females
+	(d) none of the above
+
+55:	Which of these organelles achieve its primary function by the use of the enzyme, catalase?
+	(a) perioxisome
+	(b) secretory vesicles
+	(c) lysosome
+	(d) glyoxysomes
+
+56:	A 5' monophosphorylated derivative of a ribose/deoxyribose molecule with purine/pyrimide bases attached to the 1' carbon is _____
+	(a) nucleoside
+	(b) phosphonucleoside
+	(c) nucleotide
+	(d) nucleophosphate
+
+57:	Two types of Euploidy are
+	(a) autopolyploidy & alupolyploidy
+	(b) monopolyploidy & alupolyploidy
+	(c) diplopolyploidy & alupolyploidy
+	(d) alupolyploidy & monopolyploidy
+	(e) allopolyploidy & autopolylploidy
+
+58:	Two causes of Down syndrome are
+	(a) trisomy 22 & translocation between chromosomes 21 and 15
+	(b) trisomy 21 & translocation between chromosomes 21 and 14
+	(c) trisomy 21 & translocation between chromosomes 21 and 16
+	(d) trisomy 21 & translocation between chromosomes 22 and 15
+	(e) trisomy 18 & translocation between chromosomes 21 and 15
+
+59:	Deletion in the short arm of chromosome 5 of humans leads to ______
+	(a) Tuner's syndrome
+	(b) Edward's syndrome
+	(c) Patau's syndrome
+	(d) Cri-du-chat syndrome
+
+60:	Paternal uniparental disomy is associated with ______
+	(a) angelman syndrome
+	(b) down syndrome
+	(c) klinefelter syndrome
+	(d) Praeder-Willi syndrome
+
+61:	Inversions that include the centromere are called _______
+	(a) polycentric inversions
+	(b) paracentric inversions
+	(c) precentric inversions
+	(d) procentric inversions
+	(e) pericentric inveresions
+
+62:	Aneuploids designated as 2n+2 known as
+	(a) nollysomy
+	(b) nurisomy
+	(c) monosomy
+	(d) nullisomy
+	(e) tetrasomy
+
+63:	At which stage during the cell cycle is the DNA content of the cell said to be tetraploid?
+	(a) G1
+	(b) S phase
+	(c) M phase
+	(d) Nuclear division
+
+64:	The period when the cell accumulates energy for cell division and duplicates its fundamental components is called ________
+	(a) anaphase
+	(b) interphase
+	(c) telophase
+	(d) meiosis
+	(e) mitosis
+
+65:	Which stage in mitotic division does the cell experience equlibrium of forces?
+	(a) prophase
+	(b) interphase
+	(c) metaphase
+	(d) telophase
+	(e) diakinesis
+
+66:	Which of the following does not take place in the cytoplasm?
+	(a) glycolysis
+	(b) pentose phosphate pathway
+	(c) gluconeogenesis
+	(d) aerobic respiration
+	(e) protein synthesis
+
+67:	Among marriages between heterozygotes, the probability of a child showing dominant characteristics is 3/4 and the probability of showing the recessive trait is 1/4. Answer the following 2 questions from the above statement.
+
+68:	Among families of eight children, whose parents are both heterozygous, what proportion will have exactly six children showing the dominant and two the recessive characteristics?
+	(a) 0.31
+	(b) 0.03
+	(c) 0.61
+	(d) 0.37
+	(e) 0.63
+
+69:	Which of the binomial equation in the options below would be suitable for four children showing the dominant and four the recessive characteristics?
+	(a) 56p^4q^4
+	(b) 70p^4q^4
+	(c) 28p^4q^4
+	(d) 56p^3q^5
+	(e) 28p^2q^5
+
+70:	Chemical mutagenic agents are ______
+	(a) mustard gas, nitrous acid, gamma rays
+	(b) drugs, nitrous acid, visible light
+	(c) mustard gas, drugs, gamma rays
+	(d) mustard gas, nitrous acid, acridine dyes
+
+71:	Robertsonian translocation involve exchange between chromosomes
+	(a) 13, 14, 15, 21, 23
+	(b) 13, 14, 21, 22, 23
+	(c) 14, 15, 21, 23, 24
+	(d) 13, 14, 15, 21, 22
+
+72:	The following are current research areas in genetics except _______?
+	(a) genomics
+	(b) mutagenomics
+	(c) proteomics
+	(d) eugenics
+	(e) transcriptomics
+
+73:	The major enzymes involved in recombinant DNA technology are _______?
+	(a) analyses and proteases
+	(b) proteases and ligases
+	(c) endonucleases and RNA ligases
+	(d) restriction endonucleases and DNA ligases
+	(e) restriction ligases and endonucleases
+
+74:	Although the human genomes contain 3.1 billion nucleotides, the protein coding sequence constitute about ___________
+	(a) 2%
+	(b) 10%
+	(c) 20%
+	(d) 50%
+	(e) 100%
+
+75:	In the human genome, chromosome 1 contains the largest number of genes while chromosome ______ contains the least.
+	(a) X
+	(b) Y
+	(c) 19
+	(d) 13
+	(e) none of the above
+
+76:	Although Avey, Macloed and McCarthy first showed that DNA is  the carrier of genetic information, ________ showed how the nucleotides complement one another.
+	(a) Griffith
+	(b) Maurice Wilkins
+	(c) James Eatson
+	(d) Francis Crick
+	(e) Watson and Crick
+
+77:	The first proponent of the field of study that relied on certain assumptions that are considered fallacious such as the fact that human attributes like behaviour intelligence and moral character are inherited in a mendellian manner is _________
+	(a) Gregor Mendel
+	(b) Charles Darwin
+	(c) Francis Dalton
+	(d) James Watson
+	(e) Adolf Hitler
+
+78:	The genotypes of the four group in the ABO blood group systems are
+	(a) (I^A)(I^A) of type AB blood and ii for type O blood
+	(b) (I^B)(I^B) for type B blood (I^A)(I^B) for type AB blood and ii for type O blood
+	(c) (I^A)(I^A) and (I^A)i for type A blood (I^B)(I^B) and (I^B)i for type B blood (I^B)I for type AB blood and ii for type O blood
+	(d) all of the above
+	(e) none of the above
+
+79:	A man with type A blood marries a woman type B blood and they have a child with type O blood. Their genotypes are
+	(a) man (I^A)i, woman (I^B)i
+	(b) man (I^A)i, woman (I^B)i child ii
+	(c) man (I^A)(I^A), woman (I^B)(I^B) child (I^B)i
+
+80:	Chronic villus sampling takes place in the
+	(a) first trimester
+	(b) second trimester
+	(c) third semester
+	(d) all of the above
+	(e) none of the above
+
+81:	The frequencies of all phenotypes that arise from crossing two individuals, each of which is heterozygous (EeHh) at a pair of unlinked genes are
+	(a) 1/4 : 1/2 : 1/4
+	(b) 3/4 : 1/4
+	(c) 1/4 : 1/4 : 1/4
+	(d) 1516 : 1/16
+	(e) 9/19 : 3/16 : 1/16
+
+82:	The beta form of Watson-Crick structure has diameter and wavelength of ______ and _________ respectively
+	(a) 20A and 34A
+	(b) 2A and 3.4A
+	(c) 20A and 340A
+	(d) 3.4A and 20A
+
+83:	The expected ratios in a dihybrid test cross are __________ ?
+	(a) 15:1
+	(b) 9:3:3:1
+	(c) 3:1:1:1
+	(d) 3:4
+	(e) 1:1:1:1
+
+84:	The binomial expression (p+q)^2 = 1 denotes __________?
+	(a) the phenotypic component of a population in equilibrium
+	(b) the frequency of the homozygous normal individuals in a Hardy-Weinberg population
+	(c) the genotypic composition of a population
+	(d) the phenotypic expression of a population in Hardy-Weinberg equilibrium
+	(e) the genotypic composition of a population in Hardy-Weinberg equilibrium
+
+85:	What is the probability that in a family of 5 children there will be 2 boys and girls?
+	(a) 5/12
+	(b) 1/6
+	(c) 1/8
+	(d) 3/7
+
+86:	Pharmacogenetics is concerned with the genetic differnce in people's response to __________
+	(a) foods
+	(b) cereals
+	(c) genes
+	(d) drug
+
+87:	The form of human evaluation which Adolf Hitler propagated during the 2nd world war is called _________
+	(a) aryan
+	(b) Non-aryan
+	(c) eugenic
+	(d) pogrom
+
+88:	The event that raised ethical issues all over the world recently was _________
+	(a) the birth of the goat domy
+	(b) the birth of the cow cally
+	(c) the birth of the sheep dolly
+	(d) none of the above
+
+89:	The word eugenics was coined by _________
+	(a) Charles Galton
+	(b) Francis Darwin
+	(c) Charles Darwin
+	(d) Francis Galion
+
+90:	The following are types of eugenics except
+	(a) mandatory eugenics
+	(b) authoritarian eugenics
+	(c) promotional eugenics
+	(d) aryan eugenics
+
